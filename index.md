@@ -1,5 +1,3 @@
-# Welcome
-
 # Chengtai Cao
 
 ## Basic Information
