@@ -12,7 +12,7 @@
 ### Github: 
 #### [Chengtai Cao](https://github.com/ChengtaiCao)
 ### CSDN: 
-####[Chengtai Cao](https://blog.csdn.net/weixin_37589575)
+#### [Chengtai Cao](https://blog.csdn.net/weixin_37589575)
 ### Educational Background:
 #### 2014-2018: University of Electronic Science and Technology of China (UESTC)&nbsp;&nbsp;Bachelor
 #### 2018-Now : University of Electronic Science and Technology of China (UESTC)&nbsp;&nbsp;Master
@@ -37,8 +37,8 @@
 ### Publications
 #### [Infocom 2020] Fast Network Alignment via Graph Meta-Learning (CCF A)
 Accepatance rate: 268/1354=19.8%&emsp
-Fan Zhou, Chengtai Cao, Goce Trajcevski, Kunpeng Zhang, Ting Zhong, Ji Geng&emsp
+Fan Zhou, Chengtai Cao, Goce Trajcevski, Kunpeng Zhang, Ting Zhong, Ji Geng&emsp;
 
 #### [CIKM 2019] Fast Network Alignment via Graph Meta-Learning (CCF B)
 Accepatance rate: 100/470=21.3%&emsp
-Fan Zhou, Chengtai Cao, Kunpeng Zhang, Goce Trajcevski, Ting Zhong, Ji Geng&emsp
+Fan Zhou, Chengtai Cao, Kunpeng Zhang, Goce Trajcevski, Ting Zhong, Ji Geng&emsp;
