@@ -1,12 +1,20 @@
-## Welcome to GitHub Pages
+# Welcome
 
-You can use the [editor on GitHub](https://github.com/ChengtaiCao/ChengtaiCao.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+# Chengtai Cao
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Basic Information
 
-### Markdown
+### E-Mail: 
+#### 447131988@qq.com 
+#### cct447131988@gmail.com
+### QQ: 447131988
+### Github: [Chengtai Cao](https://github.com/ChengtaiCao)
+### CSDN  : [Chengtai Cao](https://blog.csdn.net/weixin_37589575)
+### Educational Background:
+#### 2014-2018: University of Electronic Science and Technology of China  Bachelor
+#### 2018-Now : University of Electronic Science and Technology of China  Master
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
 
 ```markdown
 Syntax highlighted code block
