@@ -36,9 +36,13 @@
 #### Meta-learning, Few-shot Learning, Continual Learning, Graph, Image Emotion, etc.
 ### Publications
 #### [Infocom 2020] Fast Network Alignment via Graph Meta-Learning (CCF A)
-Accepatance rate: 268/1354=19.8%&emsp
-Fan Zhou, Chengtai Cao, Goce Trajcevski, Kunpeng Zhang, Ting Zhong, Ji Geng&emsp;
+
+Accepatance rate: 268/1354=19.8%  
+
+Fan Zhou, Chengtai Cao, Goce Trajcevski, Kunpeng Zhang, Ting Zhong, Ji Geng  
 
 #### [CIKM 2019] Fast Network Alignment via Graph Meta-Learning (CCF B)
-Accepatance rate: 100/470=21.3%&emsp
-Fan Zhou, Chengtai Cao, Kunpeng Zhang, Goce Trajcevski, Ting Zhong, Ji Geng&emsp;
+
+Accepatance rate: 100/470=21.3%  
+
+Fan Zhou, Chengtai Cao, Kunpeng Zhang, Goce Trajcevski, Ting Zhong, Ji Geng  
