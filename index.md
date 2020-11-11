@@ -2,28 +2,19 @@
 
 ## Basic Information
 
-### E-Mail: 
-#### 447131988@qq.com 
-#### cct447131988@gmail.com
-### QQ: 
-#### 447131988
-### DBLP:
-#### [Chengtai Cao](https://dblp.uni-trier.de/pid/241/6970.html)
-### Google Scholar
-#### [Chengtai Cao](https://scholar.google.com/citations?user=BbsnLQYAAAAJ&hl=zh-CN&oi=sra)
-### Github: 
-#### [Chengtai Cao](https://github.com/ChengtaiCao)
-### CSDN: 
-#### [Chengtai Cao](https://blog.csdn.net/weixin_37589575)
+### E-Mail: &nbsp;&nbsp; 447131988@qq.com&nbsp;&nbsp; cct447131988@gmail.com
+### QQ: &nbsp;&nbsp; 447131988
+### DBLP: &nbsp;&nbsp; [Chengtai Cao](https://dblp.uni-trier.de/pid/241/6970.html)
+### Google Scholar: &nbsp;&nbsp; [Chengtai Cao](https://scholar.google.com/citations?user=BbsnLQYAAAAJ&hl=zh-CN&oi=sra)
+### Github: &nbsp;&nbsp; [Chengtai Cao](https://github.com/ChengtaiCao)
+### CSDN: &nbsp;&nbsp; [Chengtai Cao](https://blog.csdn.net/weixin_37589575)
 ### Educational Background:
 #### 2014-2018: University of Electronic Science and Technology of China (UESTC)&nbsp;&nbsp;Bachelor
 #### 2018-Now : University of Electronic Science and Technology of China (UESTC)&nbsp;&nbsp;Master
 
 ## Reward
-### 2020 National Scholarship
-### 2020 The First Prize Scholarship 
-### 2019 National Scholarship
-### 2019 The First Prize Scholarship 
+### 2020 National Scholarship &nbsp;&nbsp; 2020 The First Prize Scholarship 
+### 2019 National Scholarship &nbsp;&nbsp; 2019 The First Prize Scholarship 
 ### 2016 Excellent practice Team (Team Leader)
 ### 2014 Merit Student (Sichuan Province)
 
