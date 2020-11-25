@@ -36,7 +36,7 @@ Accepatance rate: 268/1354=19.8%
 
 Fan Zhou, Chengtai Cao, Goce Trajcevski, Kunpeng Zhang, Ting Zhong, Ji Geng
 
-#### [ESWA] Learning Meta-Knowledge for Few-shot Image Emotion Recognition (JCR Q1)
+#### [ESWA] Learning Meta-Knowledge for Few-shot Image Emotion Recognition (JCR Q2)
 
 Impact Factor: 5.452 
 
