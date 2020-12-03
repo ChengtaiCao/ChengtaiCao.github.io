@@ -30,17 +30,23 @@
 ### Research Interests
 #### Meta-learning, Few-shot Learning, Continual Learning, Graph, Image Emotion, etc.
 ### Publications
-#### [Infocom 2020] Fast Network Alignment via Graph Meta-Learning (CCF A)
+#### [AAAI 2021] Overcoming Catastrophic Forgetting in Graph Neural Networks with Experience Replay (CCF A)
 
-Accepatance rate: 268/1354=19.8%  
+Accepatance rate: 1692/7911=21.4%   
 
-Fan Zhou, Chengtai Cao, Goce Trajcevski, Kunpeng Zhang, Ting Zhong, Ji Geng
+Fan Zhou, Chengtai Cao
 
 #### [ESWA] Learning Meta-Knowledge for Few-shot Image Emotion Recognition (JCR Q2)
 
 Impact Factor: 5.452 
 
 Fan Zhou, Chengtai Cao, Ting Zhong, Ji Geng
+
+#### [Infocom 2020] Fast Network Alignment via Graph Meta-Learning (CCF A)
+
+Accepatance rate: 268/1354=19.8%  
+
+Fan Zhou, Chengtai Cao, Goce Trajcevski, Kunpeng Zhang, Ting Zhong, Ji Geng
 
 #### [CIKM 2019] Fast Network Alignment via Graph Meta-Learning (CCF B)
 
