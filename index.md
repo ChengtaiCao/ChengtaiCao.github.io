@@ -34,8 +34,7 @@
 
 Accepatance rate: 1692/7911=21.4%   
 
-Fan Zhou, Chengtai Cao* \\
-*: Corresponding author
+Fan Zhou, Chengtai Cao[Corresponding author]
 
 #### [ESWA] Learning Meta-Knowledge for Few-shot Image Emotion Recognition (JCR Q2)
 
