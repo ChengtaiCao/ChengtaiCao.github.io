@@ -48,7 +48,7 @@ Accepatance rate: 268/1354=19.8%
 
 Fan Zhou, Chengtai Cao, Goce Trajcevski, Kunpeng Zhang, Ting Zhong, Ji Geng
 
-#### [CIKM 2019] Fast Network Alignment via Graph Meta-Learning (CCF B)
+#### [CIKM 2019] Meta-gnn: On few-shot node classification in graph meta-learning (CCF B)
 
 Accepatance rate: 100/470=21.3%  
 
