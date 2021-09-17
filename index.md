@@ -19,7 +19,7 @@
 #### 2014 Merit Student (Sichuan Province)
 
 ### Internships or Work
-#### 2021.07 - Now 8&nbsp;&nbsp;Baidu(Shenzhen)&nbsp;&nbsp;Strategy Algorithm Engineer
+#### 2021.07 - Now &nbsp;&nbsp;Baidu(Shenzhen)&nbsp;&nbsp;Strategy Algorithm Engineer
 ##### Exploit Python and Paddle to build the recommendation system in Ruliu
 #### 2018.02 - 2018.08&nbsp;&nbsp;SAP&nbsp;&nbsp;Front End Developer and QA
 ##### Exploit Reac.js, Redux and Ant Design Pro to build a APP
