@@ -42,16 +42,20 @@ Fan Zhou, Chengtai Cao[Corresponding author]
 
 Impact Factor: 5.452 
 
-Fan Zhou, Chengtai Cao, Ting Zhong, Ji Geng
+Fan Zhou, Chengtai Cao*, Ting Zhong, Ji Geng
 
 ##### [Infocom 2020] Fast Network Alignment via Graph Meta-Learning (CCF A)
 
 Accepatance rate: 268/1354=19.8%  
 
-Fan Zhou, Chengtai Cao, Goce Trajcevski, Kunpeng Zhang, Ting Zhong, Ji Geng
+Fan Zhou, Chengtai Cao*, Goce Trajcevski, Kunpeng Zhang, Ting Zhong, Ji Geng
 
 ##### [CIKM 2019] Meta-gnn: On few-shot node classification in graph meta-learning (CCF B)
 
 Accepatance rate: 100/470=21.3%  
 
-Fan Zhou, Chengtai Cao, Kunpeng Zhang, Goce Trajcevski, Ting Zhong, Ji Geng  
+Fan Zhou, Chengtai Cao*, Kunpeng Zhang, Goce Trajcevski, Ting Zhong, Ji Geng  
+
+##### [ICC 2020] Trajectory-User Linking via Graph Neural Networks (CCF C)   
+
+Fan Zhou, Shupei Chen, Jin Wu, Chengtai Cao*, Shengming Zhang  
