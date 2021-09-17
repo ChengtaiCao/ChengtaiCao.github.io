@@ -58,4 +58,6 @@ Fan Zhou, Chengtai Cao*, Kunpeng Zhang, Goce Trajcevski, Ting Zhong, Ji Geng
 
 ##### [ICC 2020] Trajectory-User Linking via Graph Neural Networks (CCF C)   
 
+Accepatance rate: 758/1881=40.3%
+
 Fan Zhou, Shupei Chen, Jin Wu, Chengtai Cao*, Shengming Zhang  
