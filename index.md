@@ -9,7 +9,7 @@
 
 ### Educational Background:
 #### 2014-2018: University of Electronic Science and Technology of China (UESTC)&nbsp;&nbsp;Bachelor
-#### 2018-Now : University of Electronic Science and Technology of China (UESTC)&nbsp;&nbsp;Master
+#### 2018-2021: University of Electronic Science and Technology of China (UESTC)&nbsp;&nbsp;Master
 
 ### Reward
 #### 2021 Excellent Master Thesis of UESTC
