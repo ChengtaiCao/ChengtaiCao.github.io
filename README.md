@@ -15,33 +15,49 @@
  - Fan Zhou and **Chengtai Cao\***. 2021. Overcoming Catastrophic Forgetting in Graph Neural Networks with Experience Replay. Proceedings of the AAAI Conference on Artificial Intelligence (AAAI).
  - Fan Zhou, **Chengtai Cao**, Kunpeng Zhang, Goce Trajcevski, Ting Zhong, and Ji Geng. 2019. Meta-GNN: on Few-shot Node Classification in Graph Meta-learning. ACM International Conference on Information and Knowledge Management (CIKM).
  - Fan Zhou, **Chengtai Cao**, Goce Trajcevski, Kunpeng Zhang, Ting Zhong, and Ji Geng. 2020. Fast Network Alignment via Graph Meta-learning. IEEE Conference on Computer Communications (INFOCOM).
- - Fan Zhou, Shupei Chen, Jin Wu, **Chengtai Cao**,, and Shengming Zhang. 2021. Trajectory-User Linking via Graph Neural Network. International Conference on Communications (ICC).
+ - Fan Zhou, Shupei Chen, Jin Wu, **Chengtai Cao**,, and Shengming Zhang. 2021. Trajectory-User Linking via Graph Neural Network. IEEE International Conference on Communications (ICC).
  ### Journal
  - Fan, Zhou, **Chengtai Cao**, Ting Zhong, and Ji Geng. 2021. Learning Meta-knowledge for Few-shot Image Emotion Recognition. Expert Systems with Applications (ESWA).
 
  ### Thesis
- - **Chengtai Cao**. 2021
+ #### Master
+ - **Chengtai Cao**. Application of Graph Neural Network Base on Meta-learning. 2021. School of Information and Software Engineering, University of Electronic Science and Technology of China (UESTC).
 
 ## Patent
+- Fan Zhou, **Chengtai Cao**, Ting Zhong, and Xovee Xu. 2022. Training Data Generation Method and Causal Effect Heterogeneous Response Difference Estimation Method Based on Meta-learner. China Invention Patent, No. CN113095440B.
+- Fan Zhou, **Chengtai Cao**, Ting Zhong, and Tianliang Wang. 2022. Few-shot Image Sentiment Classification Method Based on Meta-learning. China Invention Patent, No. CN112613556B.
 
 ## Education
 - University of Electronic Science and Technology of China (UESTC). 2014--2018. Bachelor.
 - University of Electronic Science and Technology of China (UESTC). 2018--2021. Master.
-- City University of Hong Kong. 2022--Now. Ph.D.
+- City University of Hong Kong (CityU). 2022--Now. Ph.D.
 
 ## Work Experience
 - Baidu International Technology Co., Ltd. (Shenzhen). 2021-2022. Strategy Algorithm Engineer.
-- SAP China Co., Ltd. (Chengdu). 2018. Font-end Developer and QA.
+- SAP China Co., Ltd. (Chengdu). 2018. Front-end Developer and QA.
 
 ## Teaching Experience
+-- Teaching Assistance. 2022 Fall. CS3201 Computer Networks (CityU)
 
 ## Academic Service
 ### Reviewer (include sub- & external-review)
-
+- IEEE Transactions on Knowledge and Data Engineering (TKDE)
+- ACM SIGKDD conference on Knowledge Discovery and Data Mining (SIGKDD)
+- Information Sciences
 ### Professional Membership
+- IEEE: Student Member
 
 ## Distinction
+- Excellent Master Thesis. 2021. UESTC.
+- National Scholarship. 2020. Ministry of Education of the People's Republic of China. 
+- First Prize Scholarship for Master Students. 2020. UESTC.
+- Excellent Graduate Student (Master Program). 2020. UESTC.
+- National Scholarship. 2020. Ministry of Education of the People's Republic of China. 
+- First Prize Scholarship for Master Students. 2019. UESTC.
+- Excellent Graduate Student (Master Program). 2019. UESTC.
+- Merit Student. 2014. The Education Department of Sichuan Provincial.
 
 ## Conference Presentation
-
-## 
+- 2019. ACM International Conference on Information and Knowledge Management (CIKM)
+- 2020. IEEE International Conference on Computer Communications (INFOCOM)
+- 2021. Proceedings of the AAAI Conference on Artificial Intelligence (AAAI).
