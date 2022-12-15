@@ -58,6 +58,6 @@
 - Merit Student. 2014. The Education Department of Sichuan Provincial.
 
 ## Conference Presentation
-- 2019. ACM International Conference on Information and Knowledge Management (CIKM).
-- 2020. IEEE International Conference on Computer Communications (INFOCOM).
-- 2021. Proceedings of the AAAI Conference on Artificial Intelligence (AAAI).
+- ACM International Conference on Information and Knowledge Management (CIKM). 2019.
+- IEEE International Conference on Computer Communications (INFOCOM). 2020.
+- Proceedings of the AAAI Conference on Artificial Intelligence (AAAI). 2021.
