@@ -37,15 +37,15 @@
 - SAP China Co., Ltd. (Chengdu). 2018. Front-end Developer and QA.
 
 ## Teaching Experience
--- Teaching Assistance. 2022 Fall. CS3201 Computer Networks (CityU)
+-- Teaching Assistance. 2022 Fall. CS3201 Computer Networks (CityU).
 
 ## Academic Service
 ### Reviewer (include sub- & external-review)
-- IEEE Transactions on Knowledge and Data Engineering (TKDE)
-- ACM SIGKDD conference on Knowledge Discovery and Data Mining (SIGKDD)
-- Information Sciences
+- IEEE Transactions on Knowledge and Data Engineering (TKDE).
+- ACM SIGKDD conference on Knowledge Discovery and Data Mining (SIGKDD).
+- Information Sciences.
 ### Professional Membership
-- IEEE: Student Member
+- IEEE: Student Member.
 
 ## Distinction
 - Excellent Master Thesis. 2021. UESTC.
@@ -58,6 +58,6 @@
 - Merit Student. 2014. The Education Department of Sichuan Provincial.
 
 ## Conference Presentation
-- 2019. ACM International Conference on Information and Knowledge Management (CIKM)
-- 2020. IEEE International Conference on Computer Communications (INFOCOM)
+- 2019. ACM International Conference on Information and Knowledge Management (CIKM).
+- 2020. IEEE International Conference on Computer Communications (INFOCOM).
 - 2021. Proceedings of the AAAI Conference on Artificial Intelligence (AAAI).
