@@ -1,47 +1,45 @@
-# Chengtai Cao
-## Personal Information
- - Google Scholar: [Chengtai Cao](https://scholar.google.com/citations?user=BbsnLQYAAAAJ&hl=en)
- - DBLP: [Chengtai Cao](https://dblp.uni-trier.de/pid/241/6970.html) 
- - E-mail: [Gmail 1](cct447131988@gmail.com) [Gmail 2](chengtaicao@gmail.com) [CityU](chengtcao2-c@my.cityu.edu.hk)
- - Github：[Chengtai Cao](https://github.com/ChengtaiCao)
- - Contact:  
-  21F-A, Montery Plaza [Google Map](https://www.google.com.hk/maps/place/Montery+Plaza/@22.3136655,114.2194696,19z/data=!3m1!4b1!4m5!3m4!1s0x34040148c6a92cab:0xf49119150b5259ad!8m2!3d22.3137823!4d114.2201371)  
-  15 Chong Yip St, Kwun Tong, Hong Kong  
-  Postal codes: 999077
- 
- ## Publication
- \* Corresponding Author
- ### Conference
- - Fan Zhou and **Chengtai Cao\***. 2021. Overcoming Catastrophic Forgetting in Graph Neural Networks with Experience Replay. Proceedings of the AAAI Conference on Artificial Intelligence (AAAI).
- - Fan Zhou, **Chengtai Cao**, Kunpeng Zhang, Goce Trajcevski, Ting Zhong, and Ji Geng. 2019. Meta-GNN: on Few-shot Node Classification in Graph Meta-learning. ACM International Conference on Information and Knowledge Management (CIKM).
- - Fan Zhou, **Chengtai Cao**,, Goce Trajcevski, Kunpeng Zhang, Ting Zhong, and Ji Geng. 2020. Fast Network Alignment via Graph Meta-learning. IEEE Conference on Computer Communications (INFOCOM).
- - Fan Zhou, Shupei Chen, Jin Wu, **Chengtai Cao**,, and Shengming Zhang. 2021. Trajectory-User Linking via Graph Neural Network. International Conference on Communications (ICC).
- ### Journal
- - Fan, Zhou, **Chengtai Cao**, Ting Zhong, and Ji Geng. 2021. Learning Meta-knowledge for Few-shot Image Emotion Recognition. Expert Systems with Applications (ESWA).
+---
+layout: default
+---
 
- ### Thesis
- - **Chengtai Cao**. 2021
+## About Me
 
-## Patent
+<img class="profile-picture" src="sherlock.jpg">
 
-## Education
-- University of Electronic Science and Technology of China (UESTC). 2014--2018. Bachelor.
-- University of Electronic Science and Technology of China (UESTC). 2018--2021. Master.
-- City University of Hong Kong. 2022--Now. Ph.D.
+Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
 
-## Work Experience
-- Baidu International Technology Co., Ltd. (Shenzhen). 2021-2022. Strategy Algorithm Engineer.
-- SAP China Co., Ltd. (Chengdu). 2018. Font-end Developer and QA.
+This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
 
-## Teaching Experience
+## Research Interest
 
-## Academic Service
-### Reviewer (include sub- & external-review)
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
 
-### Professional Membership
+## Publications
 
-## Distinction
+1. F.Bar, J.Doe: Effects of having a placeholder of a name
+2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
 
-## Conference Presentation
+## Typography
 
-## 
+This is a [link](http://google.com). Something *italics* and something **bold**.
+
+Here is a table
+
+Year | Award | Category
+-----|-------|--------
+2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
+2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
+2014 | Satellite | Won Best Actor miniseries or television film
+
+Here is a horizontal rule
+
+---
+
+Here is a blockquote
+
+> To a great mind, nothing is little
+
+## References
+
+* Foo Bar: Head of Department, Placeholder Names, Lorem
+* John Doe: Associate Professor, Department of Computer Science, Ipsum

@@ -14,7 +14,7 @@
  ### Conference
  - Fan Zhou and **Chengtai Cao\***. 2021. Overcoming Catastrophic Forgetting in Graph Neural Networks with Experience Replay. Proceedings of the AAAI Conference on Artificial Intelligence (AAAI).
  - Fan Zhou, **Chengtai Cao**, Kunpeng Zhang, Goce Trajcevski, Ting Zhong, and Ji Geng. 2019. Meta-GNN: on Few-shot Node Classification in Graph Meta-learning. ACM International Conference on Information and Knowledge Management (CIKM).
- - Fan Zhou, **Chengtai Cao**,, Goce Trajcevski, Kunpeng Zhang, Ting Zhong, and Ji Geng. 2020. Fast Network Alignment via Graph Meta-learning. IEEE Conference on Computer Communications (INFOCOM).
+ - Fan Zhou, **Chengtai Cao**, Goce Trajcevski, Kunpeng Zhang, Ting Zhong, and Ji Geng. 2020. Fast Network Alignment via Graph Meta-learning. IEEE Conference on Computer Communications (INFOCOM).
  - Fan Zhou, Shupei Chen, Jin Wu, **Chengtai Cao**,, and Shengming Zhang. 2021. Trajectory-User Linking via Graph Neural Network. International Conference on Communications (ICC).
  ### Journal
  - Fan, Zhou, **Chengtai Cao**, Ting Zhong, and Ji Geng. 2021. Learning Meta-knowledge for Few-shot Image Emotion Recognition. Expert Systems with Applications (ESWA).
