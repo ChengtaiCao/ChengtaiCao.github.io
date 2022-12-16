@@ -16,3 +16,5 @@ nav:
    link: "/researcher/"
  - name: "Resume"
    link: "resume.pdf"
+ - name: "Contact"
+   link: "contact"
