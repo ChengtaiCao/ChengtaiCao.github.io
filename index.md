@@ -3,10 +3,10 @@ layout: default
 ---
 # Chengtai Cao
 ## About Me
-Hi! I am a Ph.D. student in City Universicty of Hong Kong.  
-- Google Scholar: [Chengtai Cao](https://scholar.google.com/citations?user=BbsnLQYAAAAJ&hl=en)  
-- DBLP: [Chengtai Cao](https://dblp.uni-trier.de/pid/241/6970.html)    
-- Github：[Chengtai Cao](https://github.com/ChengtaiCao) 
+Hi! I am a Ph.D. student in City Universicty of Hong Kong.
+- Google Scholar: [Chengtai Cao](https://scholar.google.com/citations?user=BbsnLQYAAAAJ&hl=en)
+- DBLP: [Chengtai Cao](https://dblp.uni-trier.de/pid/241/6970.html)
+- Github：[Chengtai Cao](https://github.com/ChengtaiCao)
 
 ## Research Interest
 Deep Learning, Autonomous Driving, Graph Neural Networks, and Uncertainty.
