@@ -20,6 +20,7 @@ Deep Learning, Autonomous Driving, Graph Neural Networks, and Uncertainty.
 2. Fan Zhou, **Chengtai Cao**, Kunpeng Zhang, Goce Trajcevski, Ting Zhong, and Ji Geng. 2019. Meta-GNN: on Few-shot Node Classification in Graph Meta-learning. ACM International Conference on Information and Knowledge Management (CIKM).
 3. Fan Zhou, **Chengtai Cao**, Goce Trajcevski, Kunpeng Zhang, Ting Zhong, and Ji Geng. 2020. Fast Network Alignment via Graph Meta-learning. IEEE Conference on Computer Communications (INFOCOM).
 4. Fan Zhou, Shupei Chen, Jin Wu, **Chengtai Cao**,, and Shengming Zhang. 2021. Trajectory-User Linking via Graph Neural Network. IEEE International Conference on Communications (ICC).
+
 ### Journal
 1. Fan, Zhou, **Chengtai Cao**, Ting Zhong, and Ji Geng. 2021. Learning Meta-knowledge for Few-shot Image Emotion Recognition. Expert Systems with Applications (ESWA).
 
@@ -44,24 +45,27 @@ Deep Learning, Autonomous Driving, Graph Neural Networks, and Uncertainty.
 1. Teaching Assistance. 2022 Fall. CS3201 Computer Networks (CityU).
 
 ## Academic Service
+
 ### Reviewer (include sub- & external-review)
 1. IEEE Transactions on Knowledge and Data Engineering (TKDE).
 2. ACM SIGKDD conference on Knowledge Discovery and Data Mining (SIGKDD).
 3. Information Sciences.
+
 ### Professional Membership
 1. IEEE: Student Member.
 
 ## Distinction
+
 Year | Award | Issuer  
 -----|-------|--------  
-2021 | Excellent Master Thesis  | UESTC  
-2020 | National Scholarship | Ministry of Education of the People's Republic of China  
+2021 | Excellent Master Thesis | UESTC  
+2020 | National Scholarship | Ministry of Education of China  
 2020 | First Prize Scholarship for Master Students | UESTC  
 2020 | Excellent Graduate Student (Master Program)| UESTC  
-2019 | National Scholarship | Ministry of Education of the People's Republic of China  
+2019 | National Scholarship | Ministry of Education of China  
 2019 | First Prize Scholarship for Master Students | UESTC  
 2019 | Excellent Graduate Student (Master Program)| UESTC  
-2014 | Merit Student | The Education Department of Sichuan Provincial  
+2014 | Merit Student | The Education Department of Sichuan  
 
 ## Conference Presentation
 1. ACM International Conference on Information and Knowledge Management (CIKM). 2019.
