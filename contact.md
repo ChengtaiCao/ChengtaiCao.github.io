@@ -4,9 +4,9 @@ is_contact: true
 ---
  
 ## E-mail
-- [Gmail 1](cct447131988@gmail.com)
-- [Gmail 2](chengtaicao@gmail.com)
-- [CityU](chengtcao2-c@my.cityu.edu.hk)
+- Gmail 1: cct447131988 at gmail.com
+- Gmail 2: chengtaicao at gmail.com
+- CityU: chengtcao2-c at my.cityu.edu.hk
 
 ## Address
 > 21F-A, Montery Plaza
