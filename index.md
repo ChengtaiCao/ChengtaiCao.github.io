@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # Chengtai Cao
 ## About Me
 Hi! I am a Ph.D. student in City Universicty of Hong Kong.  
