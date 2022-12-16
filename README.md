@@ -1,63 +1,73 @@
+---
+layout: default
+---
 # Chengtai Cao
-## Personal Information
- - Google Scholar: [Chengtai Cao](https://scholar.google.com/citations?user=BbsnLQYAAAAJ&hl=en)
- - DBLP: [Chengtai Cao](https://dblp.uni-trier.de/pid/241/6970.html) 
- - E-mail: [[Gmail 1](cct447131988@gmail.com)] [[Gmail 2](chengtaicao@gmail.com)] [[CityU](chengtcao2-c@my.cityu.edu.hk)]
- - Github：[Chengtai Cao](https://github.com/ChengtaiCao)
- - Contact:  
-  21F-A, Montery Plaza [Google Map](https://www.google.com.hk/maps/place/Montery+Plaza/@22.3136655,114.2194696,19z/data=!3m1!4b1!4m5!3m4!1s0x34040148c6a92cab:0xf49119150b5259ad!8m2!3d22.3137823!4d114.2201371)  
-  15 Chong Yip St, Kwun Tong, Hong Kong  
-  Postal codes: 999077
- 
- ## Publication
- \* Corresponding Author
- ### Conference
- - Fan Zhou and **Chengtai Cao\***. 2021. Overcoming Catastrophic Forgetting in Graph Neural Networks with Experience Replay. Proceedings of the AAAI Conference on Artificial Intelligence (AAAI).
- - Fan Zhou, **Chengtai Cao**, Kunpeng Zhang, Goce Trajcevski, Ting Zhong, and Ji Geng. 2019. Meta-GNN: on Few-shot Node Classification in Graph Meta-learning. ACM International Conference on Information and Knowledge Management (CIKM).
- - Fan Zhou, **Chengtai Cao**, Goce Trajcevski, Kunpeng Zhang, Ting Zhong, and Ji Geng. 2020. Fast Network Alignment via Graph Meta-learning. IEEE Conference on Computer Communications (INFOCOM).
- - Fan Zhou, Shupei Chen, Jin Wu, **Chengtai Cao**,, and Shengming Zhang. 2021. Trajectory-User Linking via Graph Neural Network. IEEE International Conference on Communications (ICC).
- ### Journal
- - Fan, Zhou, **Chengtai Cao**, Ting Zhong, and Ji Geng. 2021. Learning Meta-knowledge for Few-shot Image Emotion Recognition. Expert Systems with Applications (ESWA).
+## About Me
+<img class="profile-picture" src="sherlock.jpg">
+Hi! I am a Ph.D. student in City Universicty of Hong Kong.
+- Google Scholar: [Chengtai Cao](https://scholar.google.com/citations?user=BbsnLQYAAAAJ&hl=en)
+- DBLP: [Chengtai Cao](https://dblp.uni-trier.de/pid/241/6970.html) 
+- E-mail: [[Gmail 1](cct447131988@gmail.com)] [[Gmail 2](chengtaicao@gmail.com)] [[CityU](chengtcao2-c@my.cityu.edu.hk)]
+- Github：[Chengtai Cao](https://github.com/ChengtaiCao)
+- Contact:  
+21F-A, Montery Plaza [Google Map](https://www.google.com.hk/maps/place/Montery+Plaza/@22.3136655,114.2194696,19z/data=!3m1!4b1!4m5!3m4!1s0x34040148c6a92cab:0xf49119150b5259ad!8m2!3d22.3137823!4d114.2201371)  
+15 Chong Yip St, Kwun Tong, Hong Kong  
+Postal codes: 999077
 
- ### Thesis
- #### Master
- - **Chengtai Cao**. Application of Graph Neural Network Base on Meta-learning. 2021. School of Information and Software Engineering, University of Electronic Science and Technology of China (UESTC).
+## Research Interest
+Deep Learning, Autonomous Driving, Graph Neural Networks, and Uncertainty.
+
+## Publications
+\* Corresponding Author
+### Conference
+1. Fan Zhou and **Chengtai Cao\***. 2021. Overcoming Catastrophic Forgetting in Graph Neural Networks with Experience Replay. Proceedings of the AAAI Conference on Artificial Intelligence (AAAI).
+2. Fan Zhou, **Chengtai Cao**, Kunpeng Zhang, Goce Trajcevski, Ting Zhong, and Ji Geng. 2019. Meta-GNN: on Few-shot Node Classification in Graph Meta-learning. ACM International Conference on Information and Knowledge Management (CIKM).
+3. Fan Zhou, **Chengtai Cao**, Goce Trajcevski, Kunpeng Zhang, Ting Zhong, and Ji Geng. 2020. Fast Network Alignment via Graph Meta-learning. IEEE Conference on Computer Communications (INFOCOM).
+4. Fan Zhou, Shupei Chen, Jin Wu, **Chengtai Cao**,, and Shengming Zhang. 2021. Trajectory-User Linking via Graph Neural Network. IEEE International Conference on Communications (ICC).
+### Journal
+1. Fan, Zhou, **Chengtai Cao**, Ting Zhong, and Ji Geng. 2021. Learning Meta-knowledge for Few-shot Image Emotion Recognition. Expert Systems with Applications (ESWA).
+
+### Thesis
+#### Master
+1. **Chengtai Cao**. Application of Graph Neural Network Base on Meta-learning. 2021. School of Information and Software Engineering, University of Electronic Science and Technology of China (UESTC).
 
 ## Patent
-- Fan Zhou, **Chengtai Cao**, Ting Zhong, and Xovee Xu. 2022. Training Data Generation Method and Causal Effect Heterogeneous Response Difference Estimation Method Based on Meta-learner. China Invention Patent, No. CN113095440B.
-- Fan Zhou, **Chengtai Cao**, Ting Zhong, and Tianliang Wang. 2022. Few-shot Image Sentiment Classification Method Based on Meta-learning. China Invention Patent, No. CN112613556B.
+1. Fan Zhou, **Chengtai Cao**, Ting Zhong, and Xovee Xu. 2022. Training Data Generation Method and Causal Effect Heterogeneous Response Difference Estimation Method Based on Meta-learner. China Invention Patent, No. CN113095440B.
+2. Fan Zhou, **Chengtai Cao**, Ting Zhong, and Tianliang Wang. 2022. Few-shot Image Sentiment Classification Method Based on Meta-learning. China Invention Patent, No. CN112613556B.
 
 ## Education
-- University of Electronic Science and Technology of China (UESTC). 2014--2018. Bachelor.
-- University of Electronic Science and Technology of China (UESTC). 2018--2021. Master.
-- City University of Hong Kong (CityU). 2022--Now. Ph.D.
+1. University of Electronic Science and Technology of China (UESTC). 2014--2018. Bachelor.
+2. University of Electronic Science and Technology of China (UESTC). 2018--2021. Master.
+3. City University of Hong Kong (CityU). 2022--Now. Ph.D.
 
 ## Work Experience
-- Baidu International Technology Co., Ltd. (Shenzhen). 2021-2022. Strategy Algorithm Engineer.
-- SAP China Co., Ltd. (Chengdu). 2018. Front-end Developer and QA.
+1. Baidu International Technology Co., Ltd. (Shenzhen). 2021-2022. Strategy Algorithm Engineer.
+2. SAP China Co., Ltd. (Chengdu). 2018. Front-end Developer and QA.
 
 ## Teaching Experience
--- Teaching Assistance. 2022 Fall. CS3201 Computer Networks (CityU).
+1. Teaching Assistance. 2022 Fall. CS3201 Computer Networks (CityU).
 
 ## Academic Service
 ### Reviewer (include sub- & external-review)
-- IEEE Transactions on Knowledge and Data Engineering (TKDE).
-- ACM SIGKDD conference on Knowledge Discovery and Data Mining (SIGKDD).
-- Information Sciences.
+1. IEEE Transactions on Knowledge and Data Engineering (TKDE).
+2. ACM SIGKDD conference on Knowledge Discovery and Data Mining (SIGKDD).
+3. Information Sciences.
 ### Professional Membership
-- IEEE: Student Member.
+1. IEEE: Student Member.
 
 ## Distinction
-- Excellent Master Thesis. 2021. UESTC.
-- National Scholarship. 2020. Ministry of Education of the People's Republic of China. 
-- First Prize Scholarship for Master Students. 2020. UESTC.
-- Excellent Graduate Student (Master Program). 2020. UESTC.
-- National Scholarship. 2020. Ministry of Education of the People's Republic of China. 
-- First Prize Scholarship for Master Students. 2019. UESTC.
-- Excellent Graduate Student (Master Program). 2019. UESTC.
-- Merit Student. 2014. The Education Department of Sichuan Provincial.
+Year | Award | Issuer
+-----|-------|--------
+2021 | Excellent Master Thesis  | UESTC
+2020 | National Scholarship | Ministry of Education of the People's Republic of China
+2020 | First Prize Scholarship for Master Students | UESTC
+2020 | Excellent Graduate Student (Master Program)| UESTC
+2019 | National Scholarship | Ministry of Education of the People's Republic of China
+2019 | First Prize Scholarship for Master Students | UESTC
+2019 | Excellent Graduate Student (Master Program)| UESTC
+2014 | Merit Student | The Education Department of Sichuan Provincial
 
 ## Conference Presentation
-- ACM International Conference on Information and Knowledge Management (CIKM). 2019.
-- IEEE International Conference on Computer Communications (INFOCOM). 2020.
-- Proceedings of the AAAI Conference on Artificial Intelligence (AAAI). 2021.
+1. ACM International Conference on Information and Knowledge Management (CIKM). 2019.
+2. IEEE International Conference on Computer Communications (INFOCOM). 2020.
+3. Proceedings of the AAAI Conference on Artificial Intelligence (AAAI). 2021.
