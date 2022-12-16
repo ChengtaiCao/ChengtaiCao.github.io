@@ -65,7 +65,7 @@ Year | Award | Issuer
 2019 | National Scholarship | Ministry of Education of China  
 2019 | First Prize Scholarship for Master Students | UESTC  
 2019 | Excellent Graduate Student (Master Program)| UESTC  
-2014 | Merit Student | The Education Department of Sichuan  
+2014 | Merit Student | Education Department of Sichuan  
 
 ## Conference Presentation
 1. ACM International Conference on Information and Knowledge Management (CIKM). 2019.
