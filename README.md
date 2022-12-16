@@ -3,7 +3,6 @@ layout: default
 ---
 # Chengtai Cao
 ## About Me
-<img class="profile-picture" src="sherlock.jpg">
 Hi! I am a Ph.D. student in City Universicty of Hong Kong.
 - Google Scholar: [Chengtai Cao](https://scholar.google.com/citations?user=BbsnLQYAAAAJ&hl=en)
 - DBLP: [Chengtai Cao](https://dblp.uni-trier.de/pid/241/6970.html) 
