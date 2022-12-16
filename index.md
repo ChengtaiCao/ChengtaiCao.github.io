@@ -6,7 +6,7 @@ layout: default
 Hi! I am a Ph.D. student in City Universicty of Hong Kong.
 - Google Scholar: [Chengtai Cao](https://scholar.google.com/citations?user=BbsnLQYAAAAJ&hl=en)
 - DBLP: [Chengtai Cao](https://dblp.uni-trier.de/pid/241/6970.html)
-- Github：[Chengtai Cao](https://github.com/ChengtaiCao)
+- Github: [Chengtai Cao](https://github.com/ChengtaiCao)
 
 ## Research Interest
 Deep Learning, Autonomous Driving, Graph Neural Networks, and Uncertainty.
@@ -54,16 +54,16 @@ Deep Learning, Autonomous Driving, Graph Neural Networks, and Uncertainty.
 
 ## Distinction
 
-Year | Award | Issuer  
------|-------|--------  
-2021 | Excellent Master Thesis | UESTC  
-2020 | National Scholarship | Ministry of Education of China  
-2020 | First Prize Scholarship for Master Students | UESTC  
-2020 | Excellent Graduate Student (Master Program)| UESTC  
-2019 | National Scholarship | Ministry of Education of China  
-2019 | First Prize Scholarship for Master Students | UESTC  
-2019 | Excellent Graduate Student (Master Program)| UESTC  
-2014 | Merit Student | Education Department of Sichuan  
+Year | Award | Issuer
+-----|-------|--------
+2021 | Excellent Master Thesis | UESTC
+2020 | National Scholarship | Ministry of Education of China
+2020 | First Prize Scholarship for Master Students | UESTC
+2020 | Excellent Graduate Student (Master Program)| UESTC
+2019 | National Scholarship | Ministry of Education of China
+2019 | First Prize Scholarship for Master Students | UESTC
+2019 | Excellent Graduate Student (Master Program)| UESTC
+2014 | Merit Student | Education Department of Sichuan
 
 ## Conference Presentation
 1. ACM International Conference on Information and Knowledge Management (CIKM). 2019.
