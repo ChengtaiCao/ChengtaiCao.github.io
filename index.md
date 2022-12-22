@@ -22,6 +22,9 @@ Deep Learning, Autonomous Driving, Graph Neural Networks, and Uncertainty.
 ### Journal
 1. Fan, Zhou, **Chengtai Cao**, Ting Zhong, and Ji Geng. 2021. Learning Meta-knowledge for Few-shot Image Emotion Recognition. Expert Systems with Applications (ESWA).
 
+### Pre-print
+1. Chengtai Cao, Fan Zhou, Yurou Dai, Jianping Wang. 2022. A Survey of Mix-based Data Augmentation: Taxonomy, Methods, Applications, and Explainability. arXiv:2212.10888.
+
 ### Thesis
 #### Master
 1. **Chengtai Cao**. Application of Graph Neural Network Base on Meta-learning. 2021. School of Information and Software Engineering, University of Electronic Science and Technology of China (UESTC).
@@ -47,7 +50,6 @@ Deep Learning, Autonomous Driving, Graph Neural Networks, and Uncertainty.
 ### Reviewer (include sub- & external-review)
 1. IEEE Transactions on Knowledge and Data Engineering (TKDE).
 2. ACM SIGKDD conference on Knowledge Discovery and Data Mining (SIGKDD).
-3. Information Sciences.
 
 ### Professional Membership
 1. IEEE: Student Member.
