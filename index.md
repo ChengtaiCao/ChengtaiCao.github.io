@@ -23,7 +23,7 @@ Deep Learning, Autonomous Driving, Graph Neural Networks, and Uncertainty.
 1. Fan, Zhou, **Chengtai Cao**, Ting Zhong, and Ji Geng. 2021. Learning Meta-knowledge for Few-shot Image Emotion Recognition. Expert Systems with Applications (ESWA).
 
 ### Pre-print
-1. Chengtai Cao, Fan Zhou, Yurou Dai, Jianping Wang. 2022. A Survey of Mix-based Data Augmentation: Taxonomy, Methods, Applications, and Explainability. arXiv:2212.10888.
+1. **Chengtai Cao**, Fan Zhou, Yurou Dai, Jianping Wang. 2022. A Survey of Mix-based Data Augmentation: Taxonomy, Methods, Applications, and Explainability. arXiv:2212.10888.
 
 ### Thesis
 #### Master
