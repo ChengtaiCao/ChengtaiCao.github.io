@@ -44,6 +44,7 @@ Deep Learning, Autonomous Driving, Graph Neural Networks, and Uncertainty.
 ### Reviewer (include sub- & external-review)
 1. IEEE Transactions on Knowledge and Data Engineering (TKDE).
 2. ACM SIGKDD conference on Knowledge Discovery and Data Mining (SIGKDD).
+3. IEEE Transactions on Cybernetics
 ### Professional Membership
 1. IEEE: Student Member.
 
