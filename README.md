@@ -38,7 +38,8 @@ Deep Learning, Autonomous Driving, Graph Neural Networks, and Uncertainty.
 2. SAP China Co., Ltd. (Chengdu). 2018. Front-end Developer and QA.
 
 ## Teaching Experience
-1. Teaching Assistance. 2022 Fall. CS3201 Computer Networks (CityU).
+1. Teaching Assistant. 2022 Fall. CS3201 Computer Networks (CityU).
+2. Teaching Assistant. 2023 Spring. CS5296 Cloud Computing:Theo & Prac (CityU).
 
 ## Academic Service
 ### Reviewer (include sub- & external-review)
