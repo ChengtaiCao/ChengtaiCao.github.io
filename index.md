@@ -17,7 +17,7 @@ Deep Learning, Autonomous Driving, Graph Neural Networks, and Uncertainty.
 1. Fan Zhou and **Chengtai Cao\***. 2021. Overcoming Catastrophic Forgetting in Graph Neural Networks with Experience Replay. Proceedings of the AAAI Conference on Artificial Intelligence (AAAI).
 2. Fan Zhou, **Chengtai Cao**, Kunpeng Zhang, Goce Trajcevski, Ting Zhong, and Ji Geng. 2019. Meta-GNN: on Few-shot Node Classification in Graph Meta-learning. ACM International Conference on Information and Knowledge Management (CIKM).
 3. Fan Zhou, **Chengtai Cao**, Goce Trajcevski, Kunpeng Zhang, Ting Zhong, and Ji Geng. 2020. Fast Network Alignment via Graph Meta-learning. IEEE Conference on Computer Communications (INFOCOM).
-4. Fan Zhou, Shupei Chen, Jin Wu, **Chengtai Cao**,, and Shengming Zhang. 2021. Trajectory-User Linking via Graph Neural Network. IEEE International Conference on Communications (ICC).
+4. Fan Zhou, Shupei Chen, Jin Wu, **Chengtai Cao**, and Shengming Zhang. 2021. Trajectory-User Linking via Graph Neural Network. IEEE International Conference on Communications (ICC).
 
 ### Journal
 1. Fan, Zhou, **Chengtai Cao**, Ting Zhong, and Ji Geng. 2021. Learning Meta-knowledge for Few-shot Image Emotion Recognition. Expert Systems with Applications (ESWA).
@@ -36,11 +36,11 @@ Deep Learning, Autonomous Driving, Graph Neural Networks, and Uncertainty.
 ## Education
 1. University of Electronic Science and Technology of China (UESTC). 2014--2018. Bachelor.
 2. University of Electronic Science and Technology of China (UESTC). 2018--2021. Master.
-3. City University of Hong Kong (CityU). 2022--Now. Ph.D.
+3. City University of Hong Kong (CityU). 2022--Present. Ph.D.
 
 ## Work Experience
 1. Baidu International Technology Co., Ltd. (Shenzhen). 2021-2022. Strategy Algorithm Engineer.
-2. SAP China Co., Ltd. (Chengdu). 2018. Front-end Developer and QA.
+2. SAP China Co., Ltd. (Chengdu). 2018. Front-end Developer and Quality Assurance.
 
 ## Teaching Experience
 1. Teaching Assistant. 2022 Fall. CS3201 Computer Networks (CityU).
@@ -49,9 +49,9 @@ Deep Learning, Autonomous Driving, Graph Neural Networks, and Uncertainty.
 ## Academic Service
 
 ### Reviewer (include sub- & external-review)
-1. IEEE Transactions on Knowledge and Data Engineering (TKDE).
-2. ACM SIGKDD conference on Knowledge Discovery and Data Mining (SIGKDD).
-3. IEEE Transactions on Cybernetics
+1. IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE).
+2. ACM SIGKDD conference on Knowledge Discovery and Data Mining (ACM SIGKDD).
+3. IEEE Transactions on Cybernetics (IEEE TC)
 
 ### Professional Membership
 1. IEEE: Student Member.
