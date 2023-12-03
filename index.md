@@ -3,7 +3,7 @@ layout: default
 ---
 # Chengtai Cao
 ## About Me
-Hi! I am a Ph.D. student at the City University of Hong Kong.
+Hi! I am a Ph.D. student at the Department of Computer Science, City University of Hong Kong (CityU), supervised by [Prof. Jianping Wang](https://scholars.cityu.edu.hk/en/persons/jianping-wang(0ff9fbf8-eeb5-4061-bcaf-029e3f282463).html).
 - Google Scholar: [Chengtai Cao](https://scholar.google.com/citations?user=BbsnLQYAAAAJ&hl=en)
 - DBLP: [Chengtai Cao](https://dblp.uni-trier.de/pid/241/6970.html)
 - Github: [Chengtai Cao](https://github.com/ChengtaiCao)
