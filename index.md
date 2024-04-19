@@ -48,7 +48,7 @@ Deep Learning, Autonomous Driving, Graph Neural Networks, and Uncertainty.
 1. Teaching Assistant. 2022 Fall. CS3201 Computer Networks (CityU).
 2. Teaching Assistant. 2023 Spring. CS5296 Cloud Computing: Theo & Prac (CityU).
 3. Teaching Assistant. 2023 Fall. CS5489 Machine Learning: Algorithms & Applications (CityU).
-4. Teaching Assistant. 2024 Spring. CS5401 Artificial Intelligence (CityU).
+4. Teaching Assistant. 2024 Spring. CS5491 Artificial Intelligence (CityU).
 
 ## Academic Service
 
