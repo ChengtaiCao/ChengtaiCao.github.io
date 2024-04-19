@@ -11,11 +11,13 @@ Deep Learning, Autonomous Driving, Graph Neural Networks, and Uncertainty.
 ## Publications
 \* Corresponding Author
 ### Conference
-1.  **Chengtai Cao**, Xinhong Chen, Jianping Wang, Qun Song, Rui Tan, and Yung-Hui Li. 2024. CCTR: Calibrating Trajectory Prediction for Uncertainty-Aware Motion Planning in Autonomous Driving. Proceedings of the AAAI Conference on Artificial Intelligence (AAAI).
-2. Fan Zhou and **Chengtai Cao\***. 2021. Overcoming Catastrophic Forgetting in Graph Neural Networks with Experience Replay. Proceedings of the AAAI Conference on Artificial Intelligence (AAAI).
-3. Fan Zhou, Shupei Chen, Jin Wu, **Chengtai Cao**, and Shengming Zhang. 2021. Trajectory-User Linking via Graph Neural Network. IEEE International Conference on Communications (ICC).
-4. Fan Zhou, **Chengtai Cao**, Goce Trajcevski, Kunpeng Zhang, Ting Zhong, and Ji Geng. 2020. Fast Network Alignment via Graph Meta-learning. IEEE Conference on Computer Communications (INFOCOM).
-5. Fan Zhou, **Chengtai Cao**, Kunpeng Zhang, Goce Trajcevski, Ting Zhong, and Ji Geng. 2019. Meta-GNN: on Few-shot Node Classification in Graph Meta-learning. ACM International Conference on Information and Knowledge Management (CIKM). 
+1. **Chengtai Cao**, Xinhong Chen, Jianping Wang, Qun Song, Rui Tan, and Yung-Hui Li. 2024. SGDCL: Semantic-Guided Dynamic Correlation Learning for Explainable Autonomous Driving. International Joint Conference on Artificial Intelligence (IJCAI).
+2.  **Chengtai Cao**, Xinhong Chen, Jianping Wang, Qun Song, Rui Tan, and Yung-Hui Li. 2024. CCTR: Calibrating Trajectory Prediction for Uncertainty-Aware Motion Planning in Autonomous Driving. Proceedings of the AAAI Conference on Artificial Intelligence (AAAI).
+3. Fan Zhou and **Chengtai Cao\***. 2021. Overcoming Catastrophic Forgetting in Graph Neural Networks with Experience Replay. Proceedings of the AAAI Conference on Artificial Intelligence (AAAI).
+4. Fan Zhou, Shupei Chen, Jin Wu, **Chengtai Cao**, and Shengming Zhang. 2021. Trajectory-User Linking via Graph Neural Network. IEEE International Conference on Communications (ICC).
+5. Fan Zhou, **Chengtai Cao**, Goce Trajcevski, Kunpeng Zhang, Ting Zhong, and Ji Geng. 2020. Fast Network Alignment via Graph Meta-learning. IEEE Conference on Computer Communications (INFOCOM).
+6. Fan Zhou, **Chengtai Cao**, Kunpeng Zhang, Goce Trajcevski, Ting Zhong, and Ji Geng. 2019. Meta-GNN: on Few-shot Node Classification in Graph Meta-learning. ACM International Conference on Information and Knowledge Management (CIKM).
+
 ### Journal
 1. Fan, Zhou, **Chengtai Cao**, Ting Zhong, and Ji Geng. 2021. Learning Meta-knowledge for Few-shot Image Emotion Recognition. Expert Systems with Applications (ESWA).
 ### Pre-print
@@ -42,15 +44,18 @@ Deep Learning, Autonomous Driving, Graph Neural Networks, and Uncertainty.
 1. Teaching Assistant. 2022 Fall. CS3201 Computer Networks (CityU).
 2. Teaching Assistant. 2023 Spring. CS5296 Cloud Computing: Theo & Prac (CityU).
 3. Teaching Assistant. 2023 Fall. CS5489 Machine Learning: Algorithms & Applications (CityU).
+4. Teaching Assistant. 2024 Spring. CS5401 Artificial Intelligence (CityU).
 
 ## Academic Service
 ### Reviewer (include sub- & external-review)
 1. IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE).
 2. ACM SIGKDD conference on Knowledge Discovery and Data Mining (ACM SIGKDD).
-3. IEEE Transactions on Cybernetics (IEEE TC)
+3. IEEE Transactions on Cybernetics (IEEE ToC)
 4. International World Wide Web Conference (WWW)
 5. Proceedings of the AAAI Conference on Artificial Intelligence (AAAI)
 6. Transactions on Machine Learning Research (TMLR)
+7. IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
+
 ### Professional Membership
 1. IEEE: Student Member.
 
@@ -70,6 +75,7 @@ Year | Award | Issuer
 1. ACM International Conference on Information and Knowledge Management (CIKM). 2019.
 2. IEEE International Conference on Computer Communications (INFOCOM). 2020.
 3. Proceedings of the AAAI Conference on Artificial Intelligence (AAAI). 2021.
+4. Proceedings of the AAAI Conference on Artificial Intelligence (AAAI). 2024.
 
 ## Contact:
 ### E-mail
