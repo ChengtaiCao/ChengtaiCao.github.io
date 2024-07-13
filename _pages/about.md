@@ -17,12 +17,10 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Ph.D. candidate at the Department of Computer Science, City University of Hong Kong (CityU), supervised by [Prof. Jianping Wang](https://scholars.cityu.edu.hk/en/persons/jianping-wang(0ff9fbf8-eeb5-4061-bcaf-029e3f282463).html). My research interests include Deep Learning, Autonomous Driving, Graph Neural Networks, Uncertainty, and Calibration. I have published 7 papers at the top international AI conferences and journals with total <a href='https://scholar.google.com/citations?user=BbsnLQYAAAAJ'>google scholar citations <strong><span id='total_cit'>380</span></strong></a>.
-
+{% include_relative includes/intro.md %}
 
 # 🔥 News
-- *2024.04*: &nbsp;🎉 A paper is accepted by IJCAI 2024.
-- *2023.12*: &nbsp;🎉 A paper is accepted by AAAI 2024.
+{% include_relative includes/news.md %}
 
 # 📝 Publications 
 
