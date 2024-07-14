@@ -19,3 +19,8 @@
 - This paper presents a novel CCTR framework to address the challenge of proper uncertainty calibration in trajectory prediction models, improving their reliability. CCTR offers a solution by introducing a calibration-oriented regularizer to align predicted variances with ground truth divergence and generating tailor-made temperature scalers for each prediction based on context and historical information. Extensive experiments demonstrate the superiority of CCTR over various baselines in uncertainty estimation and downstream planning tasks, leading to better-calibrated predictions and more trustworthy planning. Moreover, the ablation studies show the effectiveness of each component, with in-depth empirical analysis verifying CCTR's desirable properties. Future work can exploit more advanced post-processing modules to further improve calibration quality. 
 </div>
 </div>
+
+
+
+- `IJCAI 2024` SGDCL: Semantic-Guided Dynamic Correlation Learning for Explainable Autonomous Driving. **Chengtai Cao**, Xinhong Chen, Jianping Wang, Qun Song, Rui Tan, and Yung-Hui Li
+- `AAAI 2024` [CCTR: Calibrating Trajectory Prediction for Uncertainty-Aware Motion Planning in Autonomous Driving](https://ojs.aaai.org/index.php/AAAI/article/view/30085). **Chengtai Cao**, Xinhong Chen, Jianping Wang, Qun Song, Rui Tan, and Yung-Hui Li
