@@ -9,14 +9,26 @@ main:
   - title: "Publications"
     url: "/#-publications"
 
+   - title: "Patents"
+    url: "/#-patents"
+
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
 
   - title: "Educations"
     url: "/#-educations"
 
-  - title: "Invited Talks"
-    url: "/#-invited-talks"
+  - title: "Works"
+    url: "/#-works"
 
-  - title: "Internships"
-    url: "/#-internships"
+  - title: "Teaching Experience"
+    url: "/#-teaching-experience"
+
+  - title: "Academic Service"
+    url: "/#-academic-service"
+  
+  - title: "Professional Membershipe"
+    url: "/#-professional-membership"
+  
+  - title: "Conference Presentation"
+    url: "/#-conference-presentation"
