@@ -21,14 +21,8 @@ main:
   - title: "Works"
     url: "/#-works"
 
-  - title: "Teaching Experience"
-    url: "/#-teaching-experience"
+  - title: "Teaching"
+    url: "/#-teaching"
 
-  - title: "Academic Service"
-    url: "/#-academic-service"
-  
-  - title: "Professional Membershipe"
-    url: "/#-professional-membership"
-  
-  - title: "Conference Presentation"
-    url: "/#-conference-presentation"
+  - title: "Activities"
+    url: "/#-activities"

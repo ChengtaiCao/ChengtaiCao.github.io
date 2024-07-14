@@ -48,13 +48,14 @@ redirect_from:
 - ``2021 - 2022`` Strategy Algorithm Engineer, Baidu International Technology Co., Ltd. (Shenzhen)
 - ``2017 - 2018`` Front-End Developer and Quality Assurance, SAP China Co., Ltd. (Chengdu)
 
-# 🧑‍🏫 Teaching Experience
+# 🧑‍🏫 Teaching
 - ``2024 Spring`` Teaching Assistant, CS5491 Artificial Intelligence (CityU)
 - ``2023 Fall`` Teaching Assistant, CS5489 Machine Learning: Algorithms & Applications (CityU)
 - ``2023 Spring`` Teaching Assistant, CS5296 Cloud Computing: Theo & Prac (CityU)
 - ``2022 Fall`` Teaching Assistant, CS3201 Computer Networks (CityU)
 
-# 🧑‍💻 Academic Service
+# 🎓 Activities
+## Reviewer
 - IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE).
 - ACM SIGKDD conference on Knowledge Discovery and Data Mining (ACM SIGKDD).
 - IEEE Transactions on Cybernetics (IEEE Trans. Cyber)
@@ -63,10 +64,10 @@ redirect_from:
 - Transactions on Machine Learning Research (TMLR)
 - IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
 
-# 🎓 Professional Membership
+##  Membership
 - IEEE: Student Member.
 
-# 💬 Conference Presentation
+##  Presentation
 - ``2019.11`` ACM International Conference on Information and Knowledge Management (CIKM), Beijing China. 
 - ``2020.07`` IEEE International Conference on Computer Communications (INFOCOM), Virtual.
 - ``2021.02`` Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), Virtual.
