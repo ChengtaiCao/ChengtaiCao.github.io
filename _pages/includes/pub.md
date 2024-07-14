@@ -98,3 +98,8 @@ Fan, Zhou, **Chengtai Cao**, Ting Zhong, and Ji Geng.
 - ``Master Thesis`` [Application of Graph Neural Network Base on Meta-learning (基于元学习的图神经网络应用研究)](https://www.cnki.net/KCMS/detail/detail.aspx?dbcode=CMFD&dbname=CMFD202201&filename=1021748039.nh&uniplatform=OVERSEA&v=IOm4_go2JbG-GNi8-6GuC3ojIq6MirrxrsNc1rpnfKBFRkaFM-K-aTiPvlKkOh41). **Chengtai Cao**
 - ``INFOCOM 2020`` [Fast Network Alignment via Graph Meta-learning](https://ieeexplore.ieee.org/abstract/document/9155456). Fan Zhou, **Chengtai Cao**, Goce Trajcevski, Kunpeng Zhang, Ting Zhong, and Ji Geng
 - ``CIKM 2019`` [Meta-GNN: on Few-shot Node Classification in Graph Meta-Learning](https://dl.acm.org/doi/abs/10.1145/3357384.3358106). Fan Zhou, **Chengtai Cao**, Kunpeng Zhang, Goce Trajcevski, Ting Zhong, and Ji Geng
+  
+
+## Patents
+- China Invention Patent, No. CN113095440B: Training Data Generation Method and Causal Effect Heterogeneous Response Difference Estimation Method Based on Meta-Learner (基于元学习者的训练数据生成方法及因果效应异质反应差异估计方法). Fan Zhou, **Chengtai Cao**, Ting Zhong, and Xovee Xu
+- China Invention Patent, No. CN112613556B: Few-Shot Image Sentiment Classification Method Based on Meta-Learning (基于元学习的少样本图像情感分类方法). Fan Zhou, **Chengtai Cao**, Ting Zhong, and Tianliang Wang
