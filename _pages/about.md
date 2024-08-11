@@ -64,7 +64,8 @@ redirect_from:
 - IEEE: Student Member.
 
 ##  Presentation
-- ``2019.11`` ACM International Conference on Information and Knowledge Management (CIKM), Beijing China. 
-- ``2020.07`` IEEE International Conference on Computer Communications (INFOCOM), Virtual.
-- ``2021.02`` Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), Virtual.
-- ``2024.07`` Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), Vancouver, Canada. [**Video**](https://underline.io/lecture/94145-cctr-calibrating-trajectory-prediction-for-uncertainty-aware-motion-planning-in-autonomous-driving)
+- ``2019.11`` ACM International Conference on Information and Knowledge Management (CIKM). Beijing, China. 
+- ``2020.07`` IEEE International Conference on Computer Communications (INFOCOM). Virtual.
+- ``2021.02`` Proceedings of the AAAI Conference on Artificial Intelligence (AAAI). Virtual.
+- ``2024.02`` Proceedings of the AAAI Conference on Artificial Intelligence (AAAI). Vancouver, Canada. [**Video**](https://underline.io/lecture/94145-cctr-calibrating-trajectory-prediction-for-uncertainty-aware-motion-planning-in-autonomous-driving)
+- ``2024.08`` International Joint Conference on Artificial Intelligence (IJCAI). Jeju, South Korea.
