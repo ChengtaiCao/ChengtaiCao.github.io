@@ -3,7 +3,7 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2024</div><img src='images/IJCAI_2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-SGDCL: Semantic-Guided Dynamic Correlation Learning for Explainable Autonomous Driving [**[Project]**](https://github.com/ChengtaiCao/SGDCL)  
+[SGDCL: Semantic-Guided Dynamic Correlation Learning for Explainable Autonomous Driving](https://www.ijcai.org/proceedings/2024/66) [**[Project]**](https://github.com/ChengtaiCao/SGDCL)  
 **Chengtai Cao**, Xinhong Chen, Jianping Wang, Qun Song, Rui Tan, and Yung-Hui Li
 
 - This work introduces SGDCL, a novel approach for explainable autonomous driving. SGDCL addresses critical shortcomings of existing methods via a semantic-guided learning module and a dynamic correlation learning module to learn category-specific features and model their interplay. Furthermore, we propose a novel loss item that leverages fine-grained co-occurrence statistics to regularize model training. Our comprehensive evaluation of two benchmarks demonstrates its effectiveness, surpassing seven state-of-the-art baselines and a large vision-language model. SGDCL improves prediction performance by a large margin and offers interpretable attention scores, enhancing the explainability and transparency of autonomous driving systems. 
@@ -90,7 +90,7 @@ Fan, Zhou, **Chengtai Cao**, Ting Zhong, and Ji Geng.
 </div>
 
 
-- ``IJCAI 2024`` SGDCL: Semantic-Guided Dynamic Correlation Learning for Explainable Autonomous Driving. **Chengtai Cao**, Xinhong Chen, Jianping Wang, Qun Song, Rui Tan, and Yung-Hui Li
+- ``IJCAI 2024`` [SGDCL: Semantic-Guided Dynamic Correlation Learning for Explainable Autonomous Driving](https://www.ijcai.org/proceedings/2024/66). **Chengtai Cao**, Xinhong Chen, Jianping Wang, Qun Song, Rui Tan, and Yung-Hui Li
 - ``AAAI 2024`` [CCTR: Calibrating Trajectory Prediction for Uncertainty-Aware Motion Planning in Autonomous Driving](https://ojs.aaai.org/index.php/AAAI/article/view/30085). **Chengtai Cao**, Xinhong Chen, Jianping Wang, Qun Song, Rui Tan, and Yung-Hui Li
 - ``AAAI 2021`` [Overcoming Catastrophic Forgetting in Graph Neural Networks with Experience Replay](https://ojs.aaai.org/index.php/AAAI/article/view/16602). Fan Zhou and **Chengtai Cao\*** (Corresponding Author)
 - ``ESWA 2021`` [Learning Meta-Knowledge for Few-shot Image Emotion Recognition](https://www.sciencedirect.com/science/article/abs/pii/S0957417420309830). Fan, Zhou, **Chengtai Cao**, Ting Zhong, and Ji Geng
