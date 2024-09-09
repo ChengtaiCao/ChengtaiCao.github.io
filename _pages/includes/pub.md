@@ -1,4 +1,4 @@
-# Autonomous Driving
+## Autonomous Driving
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2024</div><img src='images/IJCAI_2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -20,7 +20,7 @@
 </div>
 </div>
 
-# Continual Learning
+## Continual Learning
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024</div><img src='images/AAAI_2021.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -32,7 +32,7 @@ knowledge the first attempt along this line. Specifically, we design a topology-
 </div>
 </div>
 
-# Meta-Learning
+## Meta-Learning
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">INFOCOM 2020</div><img src='images/INFOCOM_2020.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -55,7 +55,7 @@ Fan Zhou, **Chengtai Cao**, Kunpeng Zhang, Goce Trajcevski, Ting Zhong, and Ji G
 </div>
 
 
-# Graph Neural Network
+## Graph Neural Network
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICC 2024</div><img src='images/ICC_2021.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -66,7 +66,7 @@ Fan Zhou, Shupei Chen, Jin Wu, **Chengtai Cao**, and Shengming Zhang
 </div>
 </div>
 
-# Thesis
+## Thesis
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Master Thesis</div><img src='images/Thesis_2021.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -78,7 +78,7 @@ Fan Zhou, Shupei Chen, Jin Wu, **Chengtai Cao**, and Shengming Zhang
 </div>
 </div>
 
-# Others
+## Others
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ESWA 2021</div><img src='images/ESWA_2021.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -100,6 +100,6 @@ Fan, Zhou, **Chengtai Cao**, Ting Zhong, and Ji Geng.
 - ``CIKM 2019`` [Meta-GNN: on Few-shot Node Classification in Graph Meta-Learning](https://dl.acm.org/doi/abs/10.1145/3357384.3358106). Fan Zhou, **Chengtai Cao**, Kunpeng Zhang, Goce Trajcevski, Ting Zhong, and Ji Geng
   
 
-## Patents
+### Patents
 - China Invention Patent, No. CN113095440B: Training Data Generation Method and Causal Effect Heterogeneous Response Difference Estimation Method Based on Meta-Learner (基于元学习者的训练数据生成方法及因果效应异质反应差异估计方法). Fan Zhou, **Chengtai Cao**, Ting Zhong, and Xovee Xu
 - China Invention Patent, No. CN112613556B: Few-Shot Image Sentiment Classification Method Based on Meta-Learning (基于元学习的少样本图像情感分类方法). Fan Zhou, **Chengtai Cao**, Ting Zhong, and Tianliang Wang
