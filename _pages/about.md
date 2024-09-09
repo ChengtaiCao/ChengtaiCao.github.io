@@ -59,6 +59,7 @@ redirect_from:
 - Proceedings of the AAAI Conference on Artificial Intelligence (AAAI)
 - Transactions on Machine Learning Research (TMLR)
 - IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
+- Artificial Intelligence and Autonomous Systems (AIAS)
 
 ##  Membership
 - IEEE: Student Member.
