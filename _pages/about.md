@@ -63,6 +63,7 @@ redirect_from:
 
 ##  Membership
 - IEEE: Student Member.
+- ACM: Member.
 
 ##  Presentation
 - ``2019.11`` ACM International Conference on Information and Knowledge Management (CIKM). Beijing, China. 
