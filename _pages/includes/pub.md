@@ -3,7 +3,7 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2024</div><img src='images/IJCAI_2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[SGDCL: Semantic-Guided Dynamic Correlation Learning for Explainable Autonomous Driving](https://www.ijcai.org/proceedings/2024/66) [**[Project]**](https://github.com/ChengtaiCao/SGDCL)  
+[SGDCL: Semantic-Guided Dynamic Correlation Learning for Explainable Autonomous Driving](https://www.ijcai.org/proceedings/2024/66) <strong><span class='show_paper_citations' data='BbsnLQYAAAAJ:roLk4NBRz8UC'></span></strong> [**[Project]**](https://github.com/ChengtaiCao/SGDCL)  
 **Chengtai Cao**, Xinhong Chen, Jianping Wang, Qun Song, Rui Tan, and Yung-Hui Li
 
 - This work introduces SGDCL, a novel approach for explainable autonomous driving. SGDCL addresses critical shortcomings of existing methods via a semantic-guided learning module and a dynamic correlation learning module to learn category-specific features and model their interplay. Furthermore, we propose a novel loss item that leverages fine-grained co-occurrence statistics to regularize model training. Our comprehensive evaluation of two benchmarks demonstrates its effectiveness, surpassing seven state-of-the-art baselines and a large vision-language model. SGDCL improves prediction performance by a large margin and offers interpretable attention scores, enhancing the explainability and transparency of autonomous driving systems. 
@@ -66,6 +66,17 @@ Fan Zhou, Shupei Chen, Jin Wu, **Chengtai Cao**, and Shengming Zhang
 </div>
 </div>
 
+
+## Survey
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CSUR 2024</div><img src='images/CSUR_2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[A Survey of Mix-based Data Augmentation: Taxonomy, Methods, Applications, and Explainability](https://dl.acm.org/doi/pdf/10.1145/3696206) <strong><span class='show_paper_citations' data='BbsnLQYAAAAJ:ufrVoPGSRksC'></span></strong> [**[Project]**](https://github.com/ChengtaiCao/Awesome-Mix)
+**Chengtai Cao**, Fan Zhou, Yurou Dai, Jianping Wang, and Kunpeng Zhang
+
+- Data augmentation (DA) is indispensable in modern machine learning and deep neural networks. The basic idea of DA is to construct new training data to improve the model's generalization by adding slightly disturbed versions of existing data or synthesizing new data. This survey comprehensively reviews a crucial subset of DA techniques, namely Mix-based Data Augmentation (MixDA), which generates novel samples by combining multiple examples. In contrast to traditional DA approaches that operate on single samples or entire datasets, MixDA stands out due to its effectiveness, simplicity, computational efficiency, theoretical foundation, and broad applicability. We begin by introducing a novel taxonomy that categorizes MixDA into Mixup-based, Cutmix-based, and mixture approaches based on a hierarchical perspective of the data mixing operation. Subsequently, we provide an in-depth review of various MixDA techniques, focusing on their underlying motivations. Owing to its versatility, MixDA has penetrated a wide range of applications, which we also thoroughly investigate in this survey. Moreover, we delve into the underlying mechanisms of MixDA's effectiveness by examining its impact on model generalization and calibration while providing insights into the model's behavior by analyzing the inherent properties of MixDA. Finally, we recapitulate the critical findings and fundamental challenges of current MixDA studies while outlining the potential directions for future works. Different from previous related surveys that focus on DA approaches in specific domains (e.g., computer vision and natural language processing) or only review a limited subset of MixDA studies, we are the first to provide a systematical survey of MixDA, covering its taxonomy, methodology, application, and explainability. Furthermore, we provide promising directions for researchers interested in this exciting area.
+
+
 ## Thesis
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Master Thesis</div><img src='images/Thesis_2021.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -90,6 +101,7 @@ Fan, Zhou, **Chengtai Cao**, Ting Zhong, and Ji Geng.
 </div>
 
 
+- ``CSUR 2024`` [A Survey of Mix-based Data Augmentation: Taxonomy, Methods, Applications, and Explainability](https://dl.acm.org/doi/pdf/10.1145/3696206). **Chengtai Cao**, Fan Zhou, Yurou Dai, Jianping Wang, and Kunpeng Zhang
 - ``IJCAI 2024`` [SGDCL: Semantic-Guided Dynamic Correlation Learning for Explainable Autonomous Driving](https://www.ijcai.org/proceedings/2024/66). **Chengtai Cao**, Xinhong Chen, Jianping Wang, Qun Song, Rui Tan, and Yung-Hui Li
 - ``AAAI 2024`` [CCTR: Calibrating Trajectory Prediction for Uncertainty-Aware Motion Planning in Autonomous Driving](https://ojs.aaai.org/index.php/AAAI/article/view/30085). **Chengtai Cao**, Xinhong Chen, Jianping Wang, Qun Song, Rui Tan, and Yung-Hui Li
 - ``AAAI 2021`` [Overcoming Catastrophic Forgetting in Graph Neural Networks with Experience Replay](https://ojs.aaai.org/index.php/AAAI/article/view/16602). Fan Zhou and **Chengtai Cao\*** (Corresponding Author)
