@@ -1,3 +1,3 @@
-- *2024.09*: &nbsp;🎉 A paper is accepted by ACM Computing Surveys 2024.
+- *2024.09*: &nbsp;🎉 A paper is accepted by ACM Computing Surveys (CSUR) 2024.
 - *2024.04*: &nbsp;🎉 A paper is accepted by International Joint Conferences on Artificial Intelligence (IJCAI) 2024.
 - *2023.12*: &nbsp;🎉 A paper is accepted by Association for the Advancement of Artificial Intelligence (AAAI) 2024.
