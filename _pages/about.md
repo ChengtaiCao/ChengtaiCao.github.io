@@ -53,6 +53,7 @@ redirect_from:
 
 # 🎓 Activities
 ## Reviewer
+- IEEE IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR).
 - IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE).
 - ACM SIGKDD conference on Knowledge Discovery and Data Mining (ACM SIGKDD).
 - IEEE Transactions on Cybernetics (IEEE Trans. Cyber)
