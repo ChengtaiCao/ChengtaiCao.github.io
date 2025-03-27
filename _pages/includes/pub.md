@@ -1,4 +1,4 @@
-## Autonomous Driving
+<!-- ## Autonomous Driving
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2024</div><img src='images/IJCAI_2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -100,18 +100,35 @@ Fan, Zhou, **Chengtai Cao**, Ting Zhong, and Ji Geng.
 
 - In this research, we propose a generic meta-learning framework for the few-shot image emotion classification, called Meta-IEC, which provides the capability of well adapting or generalizing to new classes that have not been encountered before, and transferring to a new dataset where labels are completely different and only very few labeled examples are available. To capture the uncertainty and ambiguity during meta-testing, we implement a hierarchical Bayesian graphical model to understand latent relationships among various parameters between meta-training and meta-testing. Extensive experiments conducted on three publicly available datasets show that our proposed model outperforms several state-of-the-art baselines ranging from feature-engineering oriented to deep learning based. In addition, the study also demonstrates the impact of various factors on the model performance, such as the Meta-IEC framework, the network architecture, the hyperparameters, and the choice of labels in meta-training and meta-testing.
 </div>
-</div>
+</div> -->
 
 
-- ``CSUR 2024`` [A Survey of Mix-based Data Augmentation: Taxonomy, Methods, Applications, and Explainability](https://dl.acm.org/doi/pdf/10.1145/3696206). **Chengtai Cao**, Fan Zhou, Yurou Dai, Jianping Wang, and Kunpeng Zhang
-- ``IJCAI 2024`` [SGDCL: Semantic-Guided Dynamic Correlation Learning for Explainable Autonomous Driving](https://www.ijcai.org/proceedings/2024/66). **Chengtai Cao**, Xinhong Chen, Jianping Wang, Qun Song, Rui Tan, and Yung-Hui Li
-- ``AAAI 2024`` [CCTR: Calibrating Trajectory Prediction for Uncertainty-Aware Motion Planning in Autonomous Driving](https://ojs.aaai.org/index.php/AAAI/article/view/30085). **Chengtai Cao**, Xinhong Chen, Jianping Wang, Qun Song, Rui Tan, and Yung-Hui Li
-- ``AAAI 2021`` [Overcoming Catastrophic Forgetting in Graph Neural Networks with Experience Replay](https://ojs.aaai.org/index.php/AAAI/article/view/16602). Fan Zhou and **Chengtai Cao\*** (Corresponding Author)
-- ``ESWA 2021`` [Learning Meta-Knowledge for Few-shot Image Emotion Recognition](https://www.sciencedirect.com/science/article/abs/pii/S0957417420309830). Fan, Zhou, **Chengtai Cao**, Ting Zhong, and Ji Geng
-- ``ICC 2021`` [Trajectory-User Linking via Graph Neural Network](https://ieeexplore.ieee.org/abstract/document/9500836). Fan Zhou, Shupei Chen, Jin Wu, **Chengtai Cao**, and Shengming Zhang
-- ``Master Thesis`` [Application of Graph Neural Network Base on Meta-learning (基于元学习的图神经网络应用研究)](https://www.cnki.net/KCMS/detail/detail.aspx?dbcode=CMFD&dbname=CMFD202201&filename=1021748039.nh&uniplatform=OVERSEA&v=IOm4_go2JbG-GNi8-6GuC3ojIq6MirrxrsNc1rpnfKBFRkaFM-K-aTiPvlKkOh41). **Chengtai Cao**
-- ``INFOCOM 2020`` [Fast Network Alignment via Graph Meta-learning](https://ieeexplore.ieee.org/abstract/document/9155456). Fan Zhou, **Chengtai Cao**, Goce Trajcevski, Kunpeng Zhang, Ting Zhong, and Ji Geng
-- ``CIKM 2019`` [Meta-GNN: on Few-shot Node Classification in Graph Meta-Learning](https://dl.acm.org/doi/abs/10.1145/3357384.3358106). Fan Zhou, **Chengtai Cao**, Kunpeng Zhang, Goce Trajcevski, Ting Zhong, and Ji Geng
+- ``CSUR 2024`` [A Survey of Mix-based Data Augmentation: Taxonomy, Methods, Applications, and Explainability](https://dl.acm.org/doi/pdf/10.1145/3696206)  
+**Chengtai Cao**, Fan Zhou, Yurou Dai, Jianping Wang, and Kunpeng Zhang
+
+- ``IJCAI 2024`` [SGDCL: Semantic-Guided Dynamic Correlation Learning for Explainable Autonomous Driving](https://www.ijcai.org/proceedings/2024/66)  
+**Chengtai Cao**, Xinhong Chen, Jianping Wang, Qun Song, Rui Tan, and Yung-Hui Li
+
+- ``AAAI 2024`` [CCTR: Calibrating Trajectory Prediction for Uncertainty-Aware Motion Planning in Autonomous Driving](https://ojs.aaai.org/index.php/AAAI/article/view/30085)  
+**Chengtai Cao**, Xinhong Chen, Jianping Wang, Qun Song, Rui Tan, and Yung-Hui Li
+
+- ``AAAI 2021`` [Overcoming Catastrophic Forgetting in Graph Neural Networks with Experience Replay](https://ojs.aaai.org/index.php/AAAI/article/view/16602)  
+Fan Zhou and **Chengtai Cao\*** (Corresponding Author)
+
+- ``ESWA 2021`` [Learning Meta-Knowledge for Few-shot Image Emotion Recognition](https://www.sciencedirect.com/science/article/abs/pii/S0957417420309830)  
+Fan, Zhou, **Chengtai Cao**, Ting Zhong, and Ji Geng
+
+- ``ICC 2021`` [Trajectory-User Linking via Graph Neural Network](https://ieeexplore.ieee.org/abstract/document/9500836)  
+Fan Zhou, Shupei Chen, Jin Wu, **Chengtai Cao**, and Shengming Zhang
+
+- ``Master Thesis`` [Application of Graph Neural Network Base on Meta-learning (基于元学习的图神经网络应用研究)](https://www.cnki.net/KCMS/detail/detail.aspx?dbcode=CMFD&dbname=CMFD202201&filename=1021748039.nh&uniplatform=OVERSEA&v=IOm4_go2JbG-GNi8-6GuC3ojIq6MirrxrsNc1rpnfKBFRkaFM-K-aTiPvlKkOh41)  
+**Chengtai Cao**
+
+- ``INFOCOM 2020`` [Fast Network Alignment via Graph Meta-learning](https://ieeexplore.ieee.org/abstract/document/9155456)  
+Fan Zhou, **Chengtai Cao**, Goce Trajcevski, Kunpeng Zhang, Ting Zhong, and Ji Geng
+
+- ``CIKM 2019`` [Meta-GNN: on Few-shot Node Classification in Graph Meta-Learning](https://dl.acm.org/doi/abs/10.1145/3357384.3358106)  
+Fan Zhou, **Chengtai Cao**, Kunpeng Zhang, Goce Trajcevski, Ting Zhong, and Ji Geng
   
 
 ### Patents
