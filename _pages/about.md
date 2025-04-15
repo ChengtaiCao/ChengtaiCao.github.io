@@ -54,14 +54,16 @@ redirect_from:
 
 # 🎓 Activities
 ## Reviewer
-- IEEE IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR).
-- IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE).
-- ACM SIGKDD conference on Knowledge Discovery and Data Mining (ACM SIGKDD).
-- IEEE Transactions on Cybernetics (IEEE Trans. Cyber)
+- IEEE/CVF International Conference on Computer Vision  (ICCV)
+- IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
+- ACM SIGKDD conference on Knowledge Discovery and Data Mining (ACM SIGKDD)
 - International World Wide Web Conference (WWW)
 - Proceedings of the AAAI Conference on Artificial Intelligence (AAAI)
-- Transactions on Machine Learning Research (TMLR)
+- IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE)
 - IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
+- IEEE Transactions on Cybernetics (IEEE Trans. Cyber)
+- IEEE Transactions on Emerging Topics in Computational Intelligence (IEEE TETCI)
+- Transactions on Machine Learning Research (TMLR)
 - Artificial Intelligence and Autonomous Systems (AIAS)
 
 ##  Membership
