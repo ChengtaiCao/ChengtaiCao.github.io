@@ -9,7 +9,7 @@
 title                    : "Chengtai Cao"
 description              : "Ph.D. candidate in the Department of Computer Science at the City University of Hong Kong (CityU)"
 repository               : "ChengtaiCao/ChengtaiCao.github.io"
-google_scholar_stats_use_cdn : true
+google_scholar_stats_use_cdn : False
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/

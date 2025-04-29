@@ -102,6 +102,8 @@ Fan, Zhou, **Chengtai Cao**, Ting Zhong, and Ji Geng.
 </div>
 </div> -->
 
+- ``WWW 2025`` [Facing Anomalies Head-On: Network Traffic Anomaly Detection via Uncertainty-Inspired Inter-Sample Differences](https://dl.acm.org/doi/pdf/10.1145/3696410.3714621)  
+Xinglin Lian, **Chengtai Cao**, Yan Liu, Xovee Xu, Yu Zheng, Fan Zhou
 
 - ``CSUR 2024`` [A Survey of Mix-based Data Augmentation: Taxonomy, Methods, Applications, and Explainability](https://dl.acm.org/doi/pdf/10.1145/3696206)  
 **Chengtai Cao**, Fan Zhou, Yurou Dai, Jianping Wang, and Kunpeng Zhang
