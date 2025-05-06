@@ -60,7 +60,7 @@ redirect_from:
 - International World Wide Web Conference (WWW)
 - Proceedings of the AAAI Conference on Artificial Intelligence (AAAI)
 - IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE)
-- IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
+- IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS)
 - IEEE Transactions on Cybernetics (IEEE Trans. Cyber)
 - IEEE Transactions on Emerging Topics in Computational Intelligence (IEEE TETCI)
 - Transactions on Machine Learning Research (TMLR)
