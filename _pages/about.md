@@ -62,6 +62,7 @@ redirect_from:
 - IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE)
 - IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS)
 - IEEE Transactions on Cybernetics (IEEE Trans. Cyber)
+- Artificial Intelligence Review
 - IEEE Transactions on Emerging Topics in Computational Intelligence (IEEE TETCI)
 - Transactions on Machine Learning Research (TMLR)
 - Artificial Intelligence and Autonomous Systems (AIAS)
