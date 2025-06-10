@@ -140,4 +140,3 @@ Fan Zhou, **Chengtai Cao**, Kunpeng Zhang, Goce Trajcevski, Ting Zhong, and Ji G
 
 ### Article
 - ``HKAIFT 2024`` [How to Use ChatGPT to Identify Banking Operation Risks?](https://hkaift.com/how-to-use-chatgpt-to-identify-banking-operation-risks/)  
-**Chengtai Cao**
