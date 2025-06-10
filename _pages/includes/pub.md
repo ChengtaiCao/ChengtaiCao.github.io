@@ -136,3 +136,8 @@ Fan Zhou, **Chengtai Cao**, Kunpeng Zhang, Goce Trajcevski, Ting Zhong, and Ji G
 ### Patents
 - China Invention Patent, No. CN113095440B: Training Data Generation Method and Causal Effect Heterogeneous Response Difference Estimation Method Based on Meta-Learner (基于元学习者的训练数据生成方法及因果效应异质反应差异估计方法). Fan Zhou, **Chengtai Cao**, Ting Zhong, and Xovee Xu
 - China Invention Patent, No. CN112613556B: Few-Shot Image Sentiment Classification Method Based on Meta-Learning (基于元学习的少样本图像情感分类方法). Fan Zhou, **Chengtai Cao**, Ting Zhong, and Tianliang Wang
+
+
+### Article
+- ``HKAIFT 2024`` [How to Use ChatGPT to Identify Banking Operation Risks?](https://hkaift.com/how-to-use-chatgpt-to-identify-banking-operation-risks/)  
+**Chengtai Cao**
