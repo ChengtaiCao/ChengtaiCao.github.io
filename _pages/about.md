@@ -61,6 +61,7 @@ redirect_from:
 - Proceedings of the AAAI Conference on Artificial Intelligence (AAAI)
 - IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE)
 - IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS)
+- Information Fusion
 - IEEE Transactions on Cybernetics (IEEE Trans. Cyber)
 - Artificial Intelligence Review
 - IEEE Transactions on Emerging Topics in Computational Intelligence (IEEE TETCI)
