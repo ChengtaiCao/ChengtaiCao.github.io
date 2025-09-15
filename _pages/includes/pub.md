@@ -136,6 +136,9 @@ Fan Zhou, **Chengtai Cao**, Kunpeng Zhang, Goce Trajcevski, Ting Zhong, and Ji G
 ### Patents
 - China Invention Patent, No. CN113095440B: Training Data Generation Method and Causal Effect Heterogeneous Response Difference Estimation Method Based on Meta-Learner (基于元学习者的训练数据生成方法及因果效应异质反应差异估计方法). Fan Zhou, **Chengtai Cao**, Ting Zhong, and Xovee Xu
 - China Invention Patent, No. CN112613556B: Few-Shot Image Sentiment Classification Method Based on Meta-Learning (基于元学习的少样本图像情感分类方法). Fan Zhou, **Chengtai Cao**, Ting Zhong, and Tianliang Wang
+- China Invention Patent, No. CN114036398B: Content Recommendation and Ranking Model Training Method, Device, Equipment and Storage Medium (内容推荐和排序模型训练方法、装置、设备以及存储介质). Xiaoling Xia, Wei Xu, **Chengtai Cao**, Kunbin Chen, Bolei He, and Wei He
+- China Invention Patent, No. CN114428887B: Click Data Denoising Method, Device, Electronic Device and Storage Medium
+ (点击数据去噪方法、装置、电子设备及存储介质).Wei Xu, Xiaoling Xia, Junxiang Jiang, **Chengtai Cao**, Bolei He, Kunbin Chen, and Wei He
 
 
 ### Article
