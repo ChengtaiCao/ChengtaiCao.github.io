@@ -102,6 +102,9 @@ Fan, Zhou, **Chengtai Cao**, Ting Zhong, and Ji Geng.
 </div>
 </div> -->
 
+- ``ECAI 2025`` [DAMO: Dual-Attention with Multi-Objective Optimization for Explainable Autonomous Driving](https://ebooks.iospress.nl/doi/10.3233/FAIA251218)  
+**Chengtai Cao**, Shenglin Wang, Xinhong Chen, Yung-Hui Li, and Jianping Wang
+
 - ``WWW 2025`` [Facing Anomalies Head-On: Network Traffic Anomaly Detection via Uncertainty-Inspired Inter-Sample Differences](https://dl.acm.org/doi/pdf/10.1145/3696410.3714621)  
 Xinglin Lian, **Chengtai Cao**, Yan Liu, Xovee Xu, Yu Zheng, Fan Zhou
 
