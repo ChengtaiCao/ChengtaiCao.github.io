@@ -1,3 +1,4 @@
+- *2025.11*: &nbsp;🎉 A paper is accepted by Association for the Advancement of Artificial Intelligence (AAAI) 2026. Congratulations to Xiuxiu.
 - *2025.07*: &nbsp;🎉 A paper is accepted by European Conference on Artificial Intelligence (ECAI) 2025.
 - *2025.01*: &nbsp;🎉 A paper is accepted by International World Wide Web Conference (WWW) 2025. Congratulations to Xinglin.
 - *2024.09*: &nbsp;🎉 A paper is accepted by ACM Computing Surveys (CSUR) 2024.
