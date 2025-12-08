@@ -1,4 +1,4 @@
-- *2025.12*: &nbsp;🎉 A paper is accepted by the IEEE International Conference on Computer Communications (INFOCOM). Congratulations to Xinglin.
+- *2025.12*: &nbsp;🎉 A paper is accepted by the IEEE International Conference on Computer Communications (INFOCOM) 2026. Congratulations to Xinglin.
 - *2025.11*: &nbsp;🎉 A paper is accepted by the Association for the Advancement of Artificial Intelligence (AAAI) 2026. Congratulations to Xiuxiu.
 - *2025.07*: &nbsp;🎉 A paper is accepted by the European Conference on Artificial Intelligence (ECAI) 2025.
 - *2025.01*: &nbsp;🎉 A paper is accepted by the International World Wide Web Conference (WWW) 2025. Congratulations to Xinglin.
