@@ -1,7 +1,7 @@
-- *2025.12*: A paper is accepted by the IEEE International Conference on Computer Communications (INFOCOM) 2026. Congratulations to Xinglin.
-- *2025.11*: A paper is accepted by the Association for the Advancement of Artificial Intelligence (AAAI) 2026. Congratulations to Xiuxiu.
-- *2025.07*: A paper is accepted by the European Conference on Artificial Intelligence (ECAI) 2025.
-- *2025.01*: A paper is accepted by the International World Wide Web Conference (WWW) 2025. Congratulations to Xinglin.
+- *2025.12*: A paper is accepted by IEEE International Conference on Computer Communications (INFOCOM) 2026. Congratulations to Xinglin.
+- *2025.11*: A paper is accepted by Association for the Advancement of Artificial Intelligence (AAAI) 2026. Congratulations to Xiuxiu.
+- *2025.07*: A paper is accepted by European Conference on Artificial Intelligence (ECAI) 2025.
+- *2025.01*: A paper is accepted by International World Wide Web Conference (WWW) 2025. Congratulations to Xinglin.
 - *2024.09*: A paper is accepted by ACM Computing Surveys (CSUR) 2024.
-- *2024.04*: A paper is accepted by the International Joint Conferences on Artificial Intelligence (IJCAI) 2024.
-- *2023.12*: A paper is accepted by the Association for the Advancement of Artificial Intelligence (AAAI) 2024.
+- *2024.04*: A paper is accepted by International Joint Conferences on Artificial Intelligence (IJCAI) 2024.
+- *2023.12*: A paper is accepted by Association for the Advancement of Artificial Intelligence (AAAI) 2024.
