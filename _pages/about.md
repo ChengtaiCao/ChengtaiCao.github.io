@@ -45,6 +45,7 @@ redirect_from:
 - ``2017 - 2018`` Front-End Developer and Quality Assurance, SAP China Co., Ltd. (Chengdu)
 
 # 🧑‍🏫 Teaching
+- ``2025/26 Semester B`` Teaching Assistant, CS5487 Machine Learning: Principles and Practice (CityU)
 - ``2025/26 Semester A`` Teaching Assistant (Tutor), CS5486 Intelligent Systems (CityU)
 - ``2024/25 Semester B`` Teaching Assistant, CS5491 Artificial Intelligence (CityU)
 - ``2024/25 Semester A`` Teaching Assistant, CS5222 Computer Networks & Internets (CityU)
