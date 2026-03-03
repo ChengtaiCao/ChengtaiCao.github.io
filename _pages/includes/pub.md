@@ -102,6 +102,9 @@ Fan, Zhou, **Chengtai Cao**, Ting Zhong, and Ji Geng.
 </div>
 </div> -->
 
+- ``TDSC 2026`` [Shattering Weak Facades: Trustworthy Detection of Encrypted Malicious Traffic via Uncertainty-Aware Fusion](https://ieeexplore.ieee.org/abstract/document/11410518)  
+Meihui Zhong, **Chengtai Cao**, Wenxin Tai, Fan Zhou
+
 - ``ECAI 2025`` [DAMO: Dual-Attention with Multi-Objective Optimization for Explainable Autonomous Driving](https://ebooks.iospress.nl/doi/10.3233/FAIA251218)  
 **Chengtai Cao**, Shenglin Wang, Xinhong Chen, Yung-Hui Li, and Jianping Wang
 
