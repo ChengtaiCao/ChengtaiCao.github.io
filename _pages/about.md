@@ -40,7 +40,7 @@ redirect_from:
 - ``2018 - 2021`` M.S., University of Electronic Science and Technology of China (UESTC)
 - ``2014 - 2018`` B.S., University of Electronic Science and Technology of China (UESTC)
 
-# 💻 Works or Interns
+# 💻 Works and Interns
 - ``2022 - 2023`` Autonomous Driving Algorithm Engineer, Hon Hai Precision Industry. (Shenzhen)
 - ``2021 - 2022`` Strategy Algorithm Engineer, Baidu International Technology Co., Ltd. (Shenzhen)
 - ``2017 - 2018`` Front-End Developer and Quality Assurance, SAP China Co., Ltd. (Chengdu)
@@ -64,7 +64,7 @@ redirect_from:
 - Proceedings of the European Conference on Computer Vision (ECCV)
 - Proceedings of the AAAI Conference on Artificial Intelligence (AAAI)
 - Proceedings of the International Joint Conference on Artificial Intelligence (IJCAI)
-- ACM SIGKDD conference on Knowledge Discovery and Data Mining (ACM SIGKDD)
+- ACM SIGKDD conference on Knowledge Discovery and Data Mining (SIGKDD)
 - International World Wide Web Conference (WWW)
 - Annual Meeting of the Association for Computational Linguistics (ACL)
 - IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE)
