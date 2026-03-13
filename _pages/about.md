@@ -40,7 +40,8 @@ redirect_from:
 - ``2018 - 2021`` M.S., University of Electronic Science and Technology of China (UESTC)
 - ``2014 - 2018`` B.S., University of Electronic Science and Technology of China (UESTC)
 
-# 💻 Works
+# 💻 Works or Interns
+- ``2022 - 2023`` Autonomous Driving Algorithm Engineer, Hon Hai Precision Industry. (Shenzhen)
 - ``2021 - 2022`` Strategy Algorithm Engineer, Baidu International Technology Co., Ltd. (Shenzhen)
 - ``2017 - 2018`` Front-End Developer and Quality Assurance, SAP China Co., Ltd. (Chengdu)
 
@@ -56,19 +57,24 @@ redirect_from:
 
 # 🎓 Activities
 ## Reviewer
-- IEEE/CVF International Conference on Computer Vision  (ICCV)
+- Advances in Neural Information Processing Systems (Neurips)
+- International Conference on Learning Representations (ICLR)
 - IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
+- IEEE/CVF International Conference on Computer Vision  (ICCV)
+- Proceedings of the European Conference on Computer Vision (ECCV)
+- Proceedings of the AAAI Conference on Artificial Intelligence (AAAI)
+- Proceedings of the International Joint Conference on Artificial Intelligence (IJCAI)
 - ACM SIGKDD conference on Knowledge Discovery and Data Mining (ACM SIGKDD)
 - International World Wide Web Conference (WWW)
-- Proceedings of the AAAI Conference on Artificial Intelligence (AAAI)
+- Annual Meeting of the Association for Computational Linguistics (ACL)
 - IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE)
 - IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS)
+- IEEE Transactions on Cybernetics (IEEE TCYB)
+- IEEE Transactions on Emerging Topics in Computational Intelligence (IEEE TETCI)
 - Information Fusion
 - Information Sciences
-- IEEE Transactions on Cybernetics (IEEE Trans. Cyber)
-- Artificial Intelligence Review
-- IEEE Transactions on Emerging Topics in Computational Intelligence (IEEE TETCI)
 - Transactions on Machine Learning Research (TMLR)
+- Artificial Intelligence Review
 - Artificial Intelligence and Autonomous Systems (AIAS)
 
 ##  Membership
