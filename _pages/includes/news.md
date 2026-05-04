@@ -1,3 +1,4 @@
+- *2026.05*: A paper is accepted by International Joint Conferences on Artificial Intelligence (IJCAI) 2026. Congratulations to Xinglin.
 - *2026.02*: A paper is accepted by IEEE Transactions on Dependable and Secure Computing (IEEE TDSC) 2026. Congratulations to Meihui.
 - *2025.12*: A paper is accepted by IEEE International Conference on Computer Communications (INFOCOM) 2026. Congratulations to Xinglin.
 - *2025.11*: A paper is accepted by Association for the Advancement of Artificial Intelligence (AAAI) 2026. Congratulations to Xiuxiu.
