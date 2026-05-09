@@ -45,6 +45,7 @@ Fan Zhou, **Chengtai Cao**, Kunpeng Zhang, Goce Trajcevski, Ting Zhong, and Ji G
 - China Invention Patent, No. CN114428887B: Click Data Denoising Method, Device, Electronic Device and Storage Medium
  (点击数据去噪方法、装置、电子设备及存储介质). Wei Xu, Xiaoling Xia, Junxiang Jiang, **Chengtai Cao**, Bolei He, Kunbin Chen, and Wei He
 - USA Invention Patent, No. US12174824B2: Method for Denoising Click Data, Electronic Device and Storage Medium. Wei Xu, Xiaoling Xia, Junxiang Jiang, **Chengtai Cao**, Bolei He, Kunbin Chen, and Wei He
+- Taiwan (China) Invention Patent, No. Method and Device for Calibrating Prediction Uncertainty (預測的不確定校正方法及校正裝置). **Chengtai Cao**, Jianping Wang, Yirong Lin, Nianyi Zhan, Yonghui Li, and Kailin Yang
 
 
 ### Article
