@@ -26,6 +26,7 @@ redirect_from:
 {% include_relative includes/pub.md %}
 
 # 🎖 Honors and Awards
+- ``2022-2026`` Postgraduate Studentship, City University of Hong Kong (CityU)
 - ``2021`` Excellent Master Thesis, University of Electronic Science and Technology of China (UESTC)
 - ``2020`` National Scholarship, Ministry of Education of China
 - ``2020`` First Prize Scholarship for Master Students, University of Electronic Science and Technology of China (UESTC)
