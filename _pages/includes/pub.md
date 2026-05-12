@@ -1,3 +1,5 @@
+- ``PhD Thesis`` [Enhancing Decision Intelligence in Autonomous Driving through Uncertainty Modeling and Explainable Actions (透過不確定性建模與可解釋的行動來提升自動駕駛的決策智能)](https://scholars.cityu.edu.hk/en/studentTheses/enhancing-decision-intelligence-in-autonomous-driving-through-unc/) 
+
 - ``TDSC 2026`` [Shattering Weak Facades: Trustworthy Detection of Encrypted Malicious Traffic via Uncertainty-Aware Fusion](https://ieeexplore.ieee.org/abstract/document/11410518)  
 Meihui Zhong, **Chengtai Cao**, Wenxin Tai, and Fan Zhou
 
