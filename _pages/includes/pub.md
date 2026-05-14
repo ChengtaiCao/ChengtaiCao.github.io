@@ -1,4 +1,5 @@
 - ``TMLR 2026`` [When Active Learning Meets Graph Similarity: Evidential Variance for Graph Selection](https://openreview.net/forum?id=dV6UopxOjX) 
+**Chengtai Cao**, Haoyu Yang, Shenglin Wang, Xinglin Lian, and Fan Zhou
 
 - ``PhD Thesis`` [Enhancing Decision Intelligence in Autonomous Driving through Uncertainty Modeling and Explainable Actions (透過不確定性建模與可解釋的行動來提升自動駕駛的決策智能)](https://scholars.cityu.edu.hk/en/studentTheses/enhancing-decision-intelligence-in-autonomous-driving-through-unc) 
 
