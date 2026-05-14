@@ -1,4 +1,6 @@
-- ``PhD Thesis`` [Enhancing Decision Intelligence in Autonomous Driving through Uncertainty Modeling and Explainable Actions (透過不確定性建模與可解釋的行動來提升自動駕駛的決策智能)](https://scholars.cityu.edu.hk/en/studentTheses/enhancing-decision-intelligence-in-autonomous-driving-through-unc/) 
+- ``TMLR 2026`` [When Active Learning Meets Graph Similarity: Evidential Variance for Graph Selection](https://openreview.net/forum?id=dV6UopxOjX) 
+
+- ``PhD Thesis`` [Enhancing Decision Intelligence in Autonomous Driving through Uncertainty Modeling and Explainable Actions (透過不確定性建模與可解釋的行動來提升自動駕駛的決策智能)](https://scholars.cityu.edu.hk/en/studentTheses/enhancing-decision-intelligence-in-autonomous-driving-through-unc) 
 
 - ``TDSC 2026`` [Shattering Weak Facades: Trustworthy Detection of Encrypted Malicious Traffic via Uncertainty-Aware Fusion](https://ieeexplore.ieee.org/abstract/document/11410518)  
 Meihui Zhong, **Chengtai Cao**, Wenxin Tai, and Fan Zhou
@@ -51,4 +53,4 @@ Fan Zhou, **Chengtai Cao**, Kunpeng Zhang, Goce Trajcevski, Ting Zhong, and Ji G
 
 
 ### Article
-- ``HKAIFT 2024`` [How to Use ChatGPT to Identify Banking Operation Risks?](https://hkaift.com/how-to-use-chatgpt-to-identify-banking-operation-risks/)  
+- ``HKAIFT 2024`` [How to Use ChatGPT to Identify Banking Operation Risks?](https://hkaift.com/how-to-use-chatgpt-to-identify-banking-operation-risks)  
