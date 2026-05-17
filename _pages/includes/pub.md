@@ -4,8 +4,14 @@
 - ``PhD Thesis`` [Enhancing Decision Intelligence in Autonomous Driving through Uncertainty Modeling and Explainable Actions (透過不確定性建模與可解釋的行動來提升自動駕駛的決策智能)](https://scholars.cityu.edu.hk/en/studentTheses/enhancing-decision-intelligence-in-autonomous-driving-through-unc)  
 **Chengtai Cao**
 
+- ``IJCAI 2026`` No More Shortcuts: Network Traffic Anomaly Detection via Bidirectional Prediction  
+Xinglin Lian, **Chengtai Cao**, Fanglin Yu, Ting Zhong, and Fan Zhou
+
 - ``TDSC 2026`` [Shattering Weak Facades: Trustworthy Detection of Encrypted Malicious Traffic via Uncertainty-Aware Fusion](https://ieeexplore.ieee.org/abstract/document/11410518)  
 Meihui Zhong, **Chengtai Cao**, Wenxin Tai, and Fan Zhou
+
+- ``INFOCOM 2026`` Decompose to Understand, Fuse to Detect: Frequency-Decoupled Anomaly Detection for Encrypted Network Traffic  
+Xinglin Lian, **Chengtai Cao**, Ting Zhong, Yong Wang, Kai Chen, and Fan Zhou
 
 - ``AAAI 2026`` [Continuous Vision-Language-Action Co-Learning with Semantic-Physical Alignment for Behavioral Cloning](https://ojs.aaai.org/index.php/AAAI/article/view/39677)  
 Xiuxiu Qi, Yu Yang, Jiannong Cao, Luyao Bai, Chongshan Fan, **Chengtai Cao**, and Hongpeng Wang
