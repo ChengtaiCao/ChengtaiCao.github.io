@@ -1,6 +1,6 @@
 - ``SIGKDD 2026`` Disentangling Multi-View Scanning in Mamba for Network
 Traffic Anomaly Detection
-Xinglin Lian, **Chengtai Cao\***, Ting Zhong, and Fan Zhou\*
+Xinglin Lian, **Chengtai Cao\*** (Corresponding Author), Ting Zhong, and Fan Zhou\* (Corresponding Author)
 
 - ``TMLR 2026`` [When Active Learning Meets Graph Similarity: Evidential Variance for Graph Selection](https://openreview.net/forum?id=dV6UopxOjX)  
 **Chengtai Cao**, Haoyu Yang, Shenglin Wang, Xinglin Lian, and Fan Zhou
