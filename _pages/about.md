@@ -42,7 +42,6 @@ redirect_from:
 - ``2014 - 2018`` B.S., University of Electronic Science and Technology of China (UESTC)
 
 # 💻 Works and Interns
-- ``2022 - 2023`` Autonomous Driving Algorithm Engineer, Hon Hai Precision Industry. (Shenzhen)
 - ``2021 - 2022`` Strategy Algorithm Engineer, Baidu International Technology Co., Ltd. (Shenzhen)
 - ``2017 - 2018`` Front-End Developer and Quality Assurance, SAP China Co., Ltd. (Chengdu)
 
@@ -52,7 +51,7 @@ redirect_from:
 - ``2024/25 Semester B`` Teaching Assistant, CS5491 Artificial Intelligence (CityU)
 - ``2024/25 Semester A`` Teaching Assistant, CS5222 Computer Networks & Internets (CityU)
 - ``2023/24 Semester B`` Teaching Assistant, CS5491 Artificial Intelligence (CityU)
-- ``2023/24 Semester A`` Teaching Assistant, CS5489 Machine Learning: Algorithms & Applications (CityU)
+- ``2023/24 Semester A`` Teaching Assistant (Tutor), CS5489 Machine Learning: Algorithms & Applications (CityU)
 - ``2022/23 Semester B`` Teaching Assistant (Tutor), CS5296 Cloud Computing: Theo & Prac (CityU)
 - ``2022/23 Semester A`` Teaching Assistant, CS3201 Computer Networks (CityU)
 
