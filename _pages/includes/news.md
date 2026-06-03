@@ -1,3 +1,4 @@
+- *2026.06*: A paper is accepted by Expert Systems With Applications (ESWA) 2026.
 - *2026.05*: A paper is accepted by International Conference on Knowledge Discovery and Data Mining (SIGKDD) 2026. Congratulations to Xinglin.
 - *2026.05*: A paper is accepted by Transactions on Machine Learning Research (TMLR) 2026.
 - *2026.05*: A paper is accepted by International Joint Conferences on Artificial Intelligence (IJCAI) 2026. Congratulations to Xinglin.
