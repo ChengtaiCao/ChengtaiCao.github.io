@@ -1,4 +1,4 @@
-- ``ESWA 2026`` Knowledge-Aware Replay for Multi-Label Class-Incremental Learning  
+- ``ESWA 2026`` [Knowledge-Aware Replay for Multi-Label Class-Incremental Learning](https://doi.org/10.1016/j.eswa.2026.133167)  
 **Chengtai Cao**, Xinhong Chen, Qun Song, Rui Tan, Yung-Hui Li, and Jianping Wang
 
 - ``SIGKDD 2026`` Disentangling Multi-View Scanning in Mamba for Network Traffic Anomaly Detection  
