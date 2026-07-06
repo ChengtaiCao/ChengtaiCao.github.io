@@ -19,11 +19,33 @@ redirect_from:
 
 {% include_relative includes/intro.md %}
 
+# 📖 Educations
+- ``2022 - 2026`` Ph.D., Department of Computer Science, College of Computing, City University of Hong Kong (CityU)
+- ``2018 - 2021`` M.S., University of Electronic Science and Technology of China (UESTC)
+- ``2014 - 2018`` B.S., University of Electronic Science and Technology of China (UESTC)
+
+# 🔬 Current Position
+- ``2026 - Present`` Researcher, School of Information and Software Engineering (SISE), University of Electronic Science and Technology of China (UESTC), [Prof. Fan Zhou's team](https://www.icdmlab.com)
+
+# 💻 Industry Experiences
+- ``2021 - 2022`` Strategy Algorithm Engineer, Baidu International Technology Co., Ltd. (Shenzhen)
+- ``2017 - 2018`` Front-End Developer and Quality Assurance, SAP China Co., Ltd. (Chengdu)
+
 # 🔥 News
 {% include_relative includes/news.md %}
 
 # 📝 Publications
 {% include_relative includes/pub.md %}
+
+# 🧑‍🏫 Teaching
+- ``2025/26 Semester B`` Teaching Assistant, CS5487 Machine Learning: Principles and Practice (CityU)
+- ``2025/26 Semester A`` Teaching Assistant (Tutor), CS5486 Intelligent Systems (CityU)
+- ``2024/25 Semester B`` Teaching Assistant, CS5491 Artificial Intelligence (CityU)
+- ``2024/25 Semester A`` Teaching Assistant, CS5222 Computer Networks & Internets (CityU)
+- ``2023/24 Semester B`` Teaching Assistant, CS5491 Artificial Intelligence (CityU)
+- ``2023/24 Semester A`` Teaching Assistant (Tutor), CS5489 Machine Learning: Algorithms & Applications (CityU)
+- ``2022/23 Semester B`` Teaching Assistant (Tutor), CS5296 Cloud Computing: Theo & Prac (CityU)
+- ``2022/23 Semester A`` Teaching Assistant, CS3201 Computer Networks (CityU)
 
 # 🎖 Honors and Awards
 - ``2022-2026`` Postgraduate Studentship, City University of Hong Kong (CityU)
@@ -35,25 +57,6 @@ redirect_from:
 - ``2019`` First Prize Scholarship for Master Students, University of Electronic Science and Technology of China (UESTC)
 - ``2019`` Excellent Graduate Student (Master Program), University of Electronic Science and Technology of China (UESTC)
 - ``2014`` Merit Student, Education Department of Sichuan
-
-# 📖 Educations
-- ``2022 - Present`` Ph.D. Candidate, City University of Hong Kong (CityU)
-- ``2018 - 2021`` M.S., University of Electronic Science and Technology of China (UESTC)
-- ``2014 - 2018`` B.S., University of Electronic Science and Technology of China (UESTC)
-
-# 💻 Works and Interns
-- ``2021 - 2022`` Strategy Algorithm Engineer, Baidu International Technology Co., Ltd. (Shenzhen)
-- ``2017 - 2018`` Front-End Developer and Quality Assurance, SAP China Co., Ltd. (Chengdu)
-
-# 🧑‍🏫 Teaching
-- ``2025/26 Semester B`` Teaching Assistant, CS5487 Machine Learning: Principles and Practice (CityU)
-- ``2025/26 Semester A`` Teaching Assistant (Tutor), CS5486 Intelligent Systems (CityU)
-- ``2024/25 Semester B`` Teaching Assistant, CS5491 Artificial Intelligence (CityU)
-- ``2024/25 Semester A`` Teaching Assistant, CS5222 Computer Networks & Internets (CityU)
-- ``2023/24 Semester B`` Teaching Assistant, CS5491 Artificial Intelligence (CityU)
-- ``2023/24 Semester A`` Teaching Assistant (Tutor), CS5489 Machine Learning: Algorithms & Applications (CityU)
-- ``2022/23 Semester B`` Teaching Assistant (Tutor), CS5296 Cloud Computing: Theo & Prac (CityU)
-- ``2022/23 Semester A`` Teaching Assistant, CS3201 Computer Networks (CityU)
 
 # 🎓 Activities
 ## Reviewer

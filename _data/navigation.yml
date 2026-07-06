@@ -3,23 +3,26 @@ main:
   - title: "About Me"
     url: "/#about-me"
 
+  - title: "Educations"
+    url: "/#-educations"
+
+  - title: "Current Position"
+    url: "/#-current-position"
+
+  - title: "Industry Experiences"
+    url: "/#-industry-experiences"
+
   - title: "News"
     url: "/#-news"
 
   - title: "Publications"
     url: "/#-publications"
 
-  - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
-
-  - title: "Educations"
-    url: "/#-educations"
-
-  - title: "Works"
-    url: "/#-works"
-
   - title: "Teaching"
     url: "/#-teaching"
+
+  - title: "Honors and Awards"
+    url: "/#-honors-and-awards"
 
   - title: "Activities"
     url: "/#-activities"

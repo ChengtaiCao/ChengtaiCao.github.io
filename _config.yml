@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Chengtai Cao"
-description              : "Ph.D. candidate in the Department of Computer Science at the City University of Hong Kong (CityU)"
+description              : "Researcher at the School of Information and Software Engineering (SISE), University of Electronic Science and Technology of China (UESTC)"
 repository               : "ChengtaiCao/ChengtaiCao.github.io"
 google_scholar_stats_use_cdn : False
 
@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Chengtai Cao"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "City University of Hong Kong (CityU)"
-  location         : "Hong Kong, China"
+  bio              : "UESTC, SISE"
+  location         : "Chengdu, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=BbsnLQYAAAAJ"
