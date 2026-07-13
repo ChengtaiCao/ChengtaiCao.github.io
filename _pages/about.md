@@ -21,8 +21,8 @@ redirect_from:
 
 # 📖 Educations
 - ``2022 - 2026`` Ph.D., Department of Computer Science, College of Computing, City University of Hong Kong (CityU)
-- ``2018 - 2021`` M.S., University of Electronic Science and Technology of China (UESTC)
-- ``2014 - 2018`` B.S., University of Electronic Science and Technology of China (UESTC)
+- ``2018 - 2021`` M.S., School of Information and Software Engineering (SISE), University of Electronic Science and Technology of China (UESTC)
+- ``2014 - 2018`` B.S., School of Information and Software Engineering (SISE), University of Electronic Science and Technology of China (UESTC)
 
 # 🔬 Current Position
 - ``2026 - Present`` Researcher, School of Information and Software Engineering (SISE), University of Electronic Science and Technology of China (UESTC), [Prof. Fan Zhou's team](https://www.icdmlab.com)
