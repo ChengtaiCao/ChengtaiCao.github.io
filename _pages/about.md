@@ -25,7 +25,7 @@ redirect_from:
 - ``2014 - 2018`` B.S., School of Information and Software Engineering, University of Electronic Science and Technology of China
 
 # 🔬 Current Position
-- ``2026 - Present`` Researcher, School of Information and Software Engineering, University of Electronic Science and Technology of China, [Prof. Fan Zhou's team](https://www.icdmlab.com)
+- ``2026 - Present`` Postdoctoral Researcher, University of Electronic Science and Technology of China (UESTC), School of Information and Software Engineering, University of Electronic Science and Technology of China, [Prof. Fan Zhou's team](https://www.icdmlab.com)
 
 # 💻 Industry Experiences
 - ``2021 - 2022`` Strategy Algorithm Engineer, Baidu International Technology Co., Ltd. (Shenzhen)
