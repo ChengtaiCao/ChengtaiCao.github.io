@@ -19,20 +19,20 @@ redirect_from:
 
 {% include_relative includes/intro.md %}
 
+# 🔥 News
+{% include_relative includes/news.md %}
+
+# 🔬 Current Position
+- ``2026 - Present`` Postdoctoral Researcher, School of Information and Software Engineering (SISE), University of Electronic Science and Technology of China (UESTC), [Prof. Fan Zhou's team](https://www.icdmlab.com)
+
 # 📖 Educations
 - ``2022 - 2026`` Ph.D., Department of Computer Science, College of Computing, City University of Hong Kong
 - ``2018 - 2021`` M.S., School of Information and Software Engineering, University of Electronic Science and Technology of China
 - ``2014 - 2018`` B.S., School of Information and Software Engineering, University of Electronic Science and Technology of China
 
-# 🔬 Current Position
-- ``2026 - Present`` Postdoctoral Researcher, University of Electronic Science and Technology of China (UESTC), School of Information and Software Engineering, University of Electronic Science and Technology of China, [Prof. Fan Zhou's team](https://www.icdmlab.com)
-
 # 💻 Industry Experiences
 - ``2021 - 2022`` Strategy Algorithm Engineer, Baidu International Technology Co., Ltd. (Shenzhen)
 - ``2017 - 2018`` Front-End Developer and Quality Assurance, SAP China Co., Ltd. (Chengdu)
-
-# 🔥 News
-{% include_relative includes/news.md %}
 
 # 📝 Publications
 {% include_relative includes/pub.md %}

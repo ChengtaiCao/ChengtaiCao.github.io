@@ -1,3 +1,4 @@
+- *2026.07*: I joined the School of Information and Software Engineering (SISE), University of Electronic Science and Technology of China (UESTC), as a Postdoctoral Researcher.
 - *2026.06*: A paper is accepted by Expert Systems With Applications (ESWA) 2026.
 - *2026.05*: A paper is accepted by International Conference on Knowledge Discovery and Data Mining (SIGKDD) 2026. Congratulations to Xinglin.
 - *2026.05*: A paper is accepted by Transactions on Machine Learning Research (TMLR) 2026.
