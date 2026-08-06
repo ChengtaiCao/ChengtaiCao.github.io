@@ -1,7 +1,7 @@
 - ``ESWA 2026`` [Knowledge-Aware Replay for Multi-Label Class-Incremental Learning](https://doi.org/10.1016/j.eswa.2026.133167)  
 **Chengtai Cao**, Xinhong Chen, Qun Song, Rui Tan, Yung-Hui Li, and Jianping Wang
 
-- ``SIGKDD 2026`` Disentangling Multi-View Scanning in Mamba for Network Traffic Anomaly Detection  
+- ``SIGKDD 2026`` [Disentangling Multi-View Scanning in Mamba for Network Traffic Anomaly Detection](https://doi.org/10.1145/3770855.3817980)  
 Xinglin Lian, **Chengtai Cao\*** (Corresponding Author), Ting Zhong, and Fan Zhou\* (Corresponding Author)
 
 - ``TMLR 2026`` [When Active Learning Meets Graph Similarity: Evidential Variance for Graph Selection](https://openreview.net/forum?id=dV6UopxOjX)  
