@@ -23,7 +23,7 @@ redirect_from:
 {% include_relative includes/news.md %}
 
 # 🔬 Current Position
-- ``2026 - Present`` Postdoctoral Researcher, School of Information and Software Engineering (SISE), University of Electronic Science and Technology of China (UESTC), [Prof. Fan Zhou's team](https://www.icdmlab.com)
+- ``2026 - Present`` Postdoctoral Researcher, School of Information and Software Engineering (SISE), University of Electronic Science and Technology of China (UESTC)
 
 # 📖 Educations
 - ``2022 - 2026`` Ph.D., Department of Computer Science, College of Computing, City University of Hong Kong
