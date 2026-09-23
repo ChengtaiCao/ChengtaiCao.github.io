@@ -10,7 +10,7 @@ Xinglin Lian, **Chengtai Cao\*** (Corresponding Author), Ting Zhong, and Fan Zho
 - ``PhD Thesis`` [Enhancing Decision Intelligence in Autonomous Driving through Uncertainty Modeling and Explainable Actions (透過不確定性建模與可解釋的行動來提升自動駕駛的決策智能)](https://scholars.cityu.edu.hk/en/studentTheses/enhancing-decision-intelligence-in-autonomous-driving-through-unc)  
 **Chengtai Cao**
 
-- ``IJCAI 2026`` No More Shortcuts: Network Traffic Anomaly Detection via Bidirectional Prediction  
+- ``IJCAI 2026`` [No More Shortcuts: Network Traffic Anomaly Detection via Bidirectional Prediction](https://www.ijcai.org/proceedings/2026/312)  
 Xinglin Lian, **Chengtai Cao**, Fanglin Yu, Ting Zhong, and Fan Zhou
 
 - ``TDSC 2026`` [Shattering Weak Facades: Trustworthy Detection of Encrypted Malicious Traffic via Uncertainty-Aware Fusion](https://ieeexplore.ieee.org/abstract/document/11410518)  
